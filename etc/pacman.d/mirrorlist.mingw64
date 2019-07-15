@@ -1,0 +1,17 @@
+##
+## 64-bit Mingw-w64 repository mirrorlist
+##
+
+## Primary
+## msys2.org
+#Server = http://repo.msys2.org/mingw/x86_64/
+#Server = https://sourceforge.net/projects/msys2/files/REPOS/MINGW/x86_64/
+#Server = http://www2.futureware.at/~nickoe/msys2-mirror/mingw/x86_64/
+#Server = https://mirror.yandex.ru/mirrors/msys2/mingw/x86_64/
+
+Server = http://mirrors.ustc.edu.cn/msys2/mingw/x86_64/
+Server = http://mirror.bit.edu.cn/msys2/mingw/x86_64/
+Server = http://jaist.dl.sourceforge.net/project/msys2/REPOS/MINGW/x86_64/
+Server = http://www.mirrorservice.org/sites/download.sourceforge.net/pub/sourceforge/m/ms/msys2/REPOS/MINGW/x86_64/
+Server = ftp://148.251.42.38/MINGW/x86_64/
+Server = http://downloads.sourceforge.net/project/msys2/REPOS/MINGW/x86_64/

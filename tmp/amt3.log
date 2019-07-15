@@ -1,0 +1,1653 @@
+2019-07-11 16:19:03 [548]  AMT: START SESSION, library version 6.0.0.75,6.0
+2019-07-11 16:19:03 [548]  AMT: Initializing D:\Softwares\Adobe\Adobe Audition CS6
+2019-07-11 16:19:03 [548]  AMT: Adobe License Manager version 3.5 (build 2.0) RELEASE
+2019-07-11 16:19:03 [548]  AMT: Virtualization Turned off
+2019-07-11 16:19:03 [548]  PCDService: PCD Service in non-threaded mode
+2019-07-11 16:19:03 [548]  performance: AMTPreObtainProductLicense took 1.189000 ms
+2019-07-11 16:19:03 [548]  AMT: RW check key updated !
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [0] = en_US
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [1] = en_GB
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [2] = de_DE
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [3] = es_ES
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [4] = es_MX
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [5] = fr_CA
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [6] = fr_FR
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [7] = it_IT
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [8] = ja_JP
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [9] = ko_KR
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [10] = ca_CA
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [11] = nl_NL
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [12] = pt_BR
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [13] = zh_TW
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [14] = sv_SE
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [15] = cs_CZ
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [16] = pl_PL
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [17] = ru_RU
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [18] = tr_TR
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [19] = en_AE
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [20] = en_IL
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [21] = fr_MA
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [22] = da_DK
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [23] = zh_CN
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [24] = hu_HU
+2019-07-11 16:19:03 [548]  AMT: App Product Locale [25] = uk_UA
+2019-07-11 16:19:03 [548]  config: Loading configuration for D:\Softwares\Adobe\Adobe Audition CS6\AMT\application.xml
+2019-07-11 16:19:03 [548]  config: Found payload code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:03 [548]  PCDService: found driver code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:03 [548]  config: config: Host app was installed, using installed license configuration.
+2019-07-11 16:19:03 [548]  PCDService: No value for key [FLMap] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:19:03 [548]  config: Setting current license to the driver at startup because no mapping was found.
+2019-07-11 16:19:03 [548]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:19:03 [548]  config: payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:03 [548]  config: driver payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:03 [548]  config: driver licensing code: Audition-CS6-Win-GM
+2019-07-11 16:19:03 [548]  config: current licensing code: Audition-CS6-Win-GM
+2019-07-11 16:19:03 [548]  config: current locale code: ALL
+2019-07-11 16:19:03 [548]  config: Done loading configuration
+2019-07-11 16:19:03 [548]  config: Setting insalled locales
+2019-07-11 16:19:03 [548]  config: Changing locale to "zh_CN" because old locale "" is not in the new list of installed languages
+2019-07-11 16:19:03 [548]  AMT: Installed Locale  [0] = zh_CN
+2019-07-11 16:19:03 [548]  AMT: Reordered Locale  [0] = zh_CN
+2019-07-11 16:19:03 [548]  AMT: config: Finding license info for payload: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:03 [548]  AMT: config: PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:03 [548]  AMT: config: Driver PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:03 [548]  AMT: config: Installed LicensingCode: Audition-CS6-Win-GM
+2019-07-11 16:19:03 [548]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:03 [548]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:03 [548]  PCDService: No value for key [ISO_TAGGING_DISABLED] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:03 [548]  PCDService: No value for key [EULA] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:03 [548]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:03 [548]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:03 [548]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:03 [548]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:03 [548]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:03 [548]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:03 [548]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:03 [548]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:03 [548]  PCDService: No value for key [SuiteFeatureCount] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:03 [548]  AMT: Application can be serialized (Non Passive App).
+2019-07-11 16:19:03 [548]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}zh_CN] in cache : 519
+2019-07-11 16:19:03 [548]  config: No zh_CN licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:19:03 [548]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:19:03 [548]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:19:03 [548]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:19:03 [548]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:19:03 [548]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:19:03 [548]  config: Enigma Data Found from SLCache
+2019-07-11 16:19:03 [548]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:03 [548]  AMT: Subsequent launch (serial [97658709181598059820] in trial).
+2019-07-11 16:19:03 [548]  AMT: Application state initialized.  Obtaining Product License.
+2019-07-11 16:19:03 [548]  AMT: Obtaining client features from cache.
+2019-07-11 16:19:03 [548]  AMT: Obtaining client product info from cache.
+2019-07-11 16:19:03 [548]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:03 [548]  PCDService: No value for key [ENABLE_GUEST] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:03 [548]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:03 [548]  AMT: Running in PROV_APP
+2019-07-11 16:19:03 [548]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:03 [548]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:03 [548]  PCDService: No value for key [MediaTag] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:03 [548]  config: No media tag found for payload {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:03 [548]  config: Using default media policy RET
+2019-07-11 16:19:03 [548]  uiswitch: EULA has already been accepted.
+2019-07-11 16:19:03 [548]  AMT: This is a subsequent launch. Deferring services.
+2019-07-11 16:19:03 [548]  performance: AMTObtainProductLicense took 37.313900 ms
+2019-07-11 16:19:07 [548]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:07 [548]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:07 [548]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:07 [548]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:07 [548]  AUMService: config: No AdobeUpdaterCode found in configuration; AUM will be disabled.
+2019-07-11 16:19:07 [548]  ServiceLoader: looking for library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:19:07 [548]  ServiceLoader: Found library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:19:07 [548]  performance: AMTReleaseProductLicense took 0.139500 ms
+2019-07-11 16:19:07 [548]  AMT: END SESSION.
+
+
+2019-07-11 16:19:16 [1600]  AMT: START SESSION, library version 6.0.0.75,6.0
+2019-07-11 16:19:16 [1600]  AMT: Initializing D:\Softwares\Adobe\Adobe Audition CS6
+2019-07-11 16:19:16 [1600]  AMT: Adobe License Manager version 3.5 (build 2.0) RELEASE
+2019-07-11 16:19:16 [1600]  AMT: Virtualization Turned off
+2019-07-11 16:19:16 [1600]  PCDService: PCD Service in non-threaded mode
+2019-07-11 16:19:16 [1600]  performance: AMTPreObtainProductLicense took 1.047600 ms
+2019-07-11 16:19:16 [1600]  AMT: RW check key updated !
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [0] = en_US
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [1] = en_GB
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [2] = de_DE
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [3] = es_ES
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [4] = es_MX
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [5] = fr_CA
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [6] = fr_FR
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [7] = it_IT
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [8] = ja_JP
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [9] = ko_KR
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [10] = ca_CA
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [11] = nl_NL
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [12] = pt_BR
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [13] = zh_TW
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [14] = sv_SE
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [15] = cs_CZ
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [16] = pl_PL
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [17] = ru_RU
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [18] = tr_TR
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [19] = en_AE
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [20] = en_IL
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [21] = fr_MA
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [22] = da_DK
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [23] = zh_CN
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [24] = hu_HU
+2019-07-11 16:19:16 [1600]  AMT: App Product Locale [25] = uk_UA
+2019-07-11 16:19:16 [1600]  config: Loading configuration for D:\Softwares\Adobe\Adobe Audition CS6\AMT\application.xml
+2019-07-11 16:19:16 [1600]  config: Found payload code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:16 [1600]  PCDService: found driver code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:16 [1600]  config: config: Host app was installed, using installed license configuration.
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [FLMap] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:19:16 [1600]  config: Setting current license to the driver at startup because no mapping was found.
+2019-07-11 16:19:16 [1600]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:19:16 [1600]  config: payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:16 [1600]  config: driver payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:16 [1600]  config: driver licensing code: Audition-CS6-Win-GM
+2019-07-11 16:19:16 [1600]  config: current licensing code: Audition-CS6-Win-GM
+2019-07-11 16:19:16 [1600]  config: current locale code: ALL
+2019-07-11 16:19:16 [1600]  config: Done loading configuration
+2019-07-11 16:19:16 [1600]  config: Setting insalled locales
+2019-07-11 16:19:16 [1600]  config: Changing locale to "zh_CN" because old locale "" is not in the new list of installed languages
+2019-07-11 16:19:16 [1600]  AMT: Installed Locale  [0] = zh_CN
+2019-07-11 16:19:16 [1600]  AMT: Reordered Locale  [0] = zh_CN
+2019-07-11 16:19:16 [1600]  AMT: config: Finding license info for payload: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:16 [1600]  AMT: config: PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:16 [1600]  AMT: config: Driver PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:16 [1600]  AMT: config: Installed LicensingCode: Audition-CS6-Win-GM
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [ISO_TAGGING_DISABLED] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [EULA] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [SuiteFeatureCount] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:16 [1600]  AMT: Application can be serialized (Non Passive App).
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}zh_CN] in cache : 519
+2019-07-11 16:19:16 [1600]  config: No zh_CN licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:19:16 [1600]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:19:16 [1600]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:19:16 [1600]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:19:16 [1600]  config: Enigma Data Found from SLCache
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:16 [1600]  AMT: Subsequent launch (serial [97658709181598059820] in trial).
+2019-07-11 16:19:16 [1600]  AMT: Application state initialized.  Obtaining Product License.
+2019-07-11 16:19:16 [1600]  AMT: Obtaining client features from cache.
+2019-07-11 16:19:16 [1600]  AMT: Obtaining client product info from cache.
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [ENABLE_GUEST] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:16 [1600]  AMT: Running in PROV_APP
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:16 [1600]  PCDService: No value for key [MediaTag] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:16 [1600]  config: No media tag found for payload {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:16 [1600]  config: Using default media policy RET
+2019-07-11 16:19:16 [1600]  uiswitch: EULA has already been accepted.
+2019-07-11 16:19:16 [1600]  AMT: This is a subsequent launch. Deferring services.
+2019-07-11 16:19:16 [1600]  performance: AMTObtainProductLicense took 48.520500 ms
+2019-07-11 16:19:20 [1600]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:20 [1600]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:20 [1600]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:20 [1600]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:20 [1600]  AUMService: config: No AdobeUpdaterCode found in configuration; AUM will be disabled.
+2019-07-11 16:19:20 [1600]  ServiceLoader: looking for library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:19:20 [1600]  ServiceLoader: Found library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:19:20 [1600]  performance: AMTReleaseProductLicense took 0.202400 ms
+2019-07-11 16:19:20 [1600]  AMT: END SESSION.
+
+
+2019-07-11 16:19:22 [10392]  AMT: START SESSION, library version 6.0.0.75,6.0
+2019-07-11 16:19:22 [10392]  AMT: Initializing D:\Softwares\Adobe\Adobe Audition CS6
+2019-07-11 16:19:22 [10392]  AMT: Adobe License Manager version 3.5 (build 2.0) RELEASE
+2019-07-11 16:19:22 [10392]  AMT: Virtualization Turned off
+2019-07-11 16:19:22 [10392]  PCDService: PCD Service in non-threaded mode
+2019-07-11 16:19:22 [10392]  performance: AMTPreObtainProductLicense took 1.016300 ms
+2019-07-11 16:19:22 [10392]  AMT: RW check key updated !
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [0] = en_US
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [1] = en_GB
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [2] = de_DE
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [3] = es_ES
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [4] = es_MX
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [5] = fr_CA
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [6] = fr_FR
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [7] = it_IT
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [8] = ja_JP
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [9] = ko_KR
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [10] = ca_CA
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [11] = nl_NL
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [12] = pt_BR
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [13] = zh_TW
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [14] = sv_SE
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [15] = cs_CZ
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [16] = pl_PL
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [17] = ru_RU
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [18] = tr_TR
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [19] = en_AE
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [20] = en_IL
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [21] = fr_MA
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [22] = da_DK
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [23] = zh_CN
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [24] = hu_HU
+2019-07-11 16:19:22 [10392]  AMT: App Product Locale [25] = uk_UA
+2019-07-11 16:19:22 [10392]  config: Loading configuration for D:\Softwares\Adobe\Adobe Audition CS6\AMT\application.xml
+2019-07-11 16:19:22 [10392]  config: Found payload code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:22 [10392]  PCDService: found driver code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:22 [10392]  config: config: Host app was installed, using installed license configuration.
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [FLMap] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:19:22 [10392]  config: Setting current license to the driver at startup because no mapping was found.
+2019-07-11 16:19:22 [10392]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:19:22 [10392]  config: payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:22 [10392]  config: driver payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:22 [10392]  config: driver licensing code: Audition-CS6-Win-GM
+2019-07-11 16:19:22 [10392]  config: current licensing code: Audition-CS6-Win-GM
+2019-07-11 16:19:22 [10392]  config: current locale code: ALL
+2019-07-11 16:19:22 [10392]  config: Done loading configuration
+2019-07-11 16:19:22 [10392]  config: Setting insalled locales
+2019-07-11 16:19:22 [10392]  config: Changing locale to "zh_CN" because old locale "" is not in the new list of installed languages
+2019-07-11 16:19:22 [10392]  AMT: Installed Locale  [0] = zh_CN
+2019-07-11 16:19:22 [10392]  AMT: Reordered Locale  [0] = zh_CN
+2019-07-11 16:19:22 [10392]  AMT: config: Finding license info for payload: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:22 [10392]  AMT: config: PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:22 [10392]  AMT: config: Driver PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:22 [10392]  AMT: config: Installed LicensingCode: Audition-CS6-Win-GM
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [ISO_TAGGING_DISABLED] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [EULA] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [SuiteFeatureCount] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:22 [10392]  AMT: Application can be serialized (Non Passive App).
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}zh_CN] in cache : 519
+2019-07-11 16:19:22 [10392]  config: No zh_CN licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:19:22 [10392]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:19:22 [10392]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:19:22 [10392]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:19:22 [10392]  config: Enigma Data Found from SLCache
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:22 [10392]  AMT: Subsequent launch (serial [97658709181598059820] in trial).
+2019-07-11 16:19:22 [10392]  AMT: Application state initialized.  Obtaining Product License.
+2019-07-11 16:19:22 [10392]  AMT: Obtaining client features from cache.
+2019-07-11 16:19:22 [10392]  AMT: Obtaining client product info from cache.
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [ENABLE_GUEST] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:22 [10392]  AMT: Running in PROV_APP
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:22 [10392]  PCDService: No value for key [MediaTag] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:22 [10392]  config: No media tag found for payload {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:22 [10392]  config: Using default media policy RET
+2019-07-11 16:19:22 [10392]  uiswitch: EULA has already been accepted.
+2019-07-11 16:19:22 [10392]  AMT: This is a subsequent launch. Deferring services.
+2019-07-11 16:19:22 [10392]  performance: AMTObtainProductLicense took 40.466202 ms
+2019-07-11 16:19:26 [10392]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:26 [10392]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:26 [10392]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:26 [10392]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:26 [10392]  AUMService: config: No AdobeUpdaterCode found in configuration; AUM will be disabled.
+2019-07-11 16:19:26 [10392]  ServiceLoader: looking for library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:19:26 [10392]  ServiceLoader: Found library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:19:26 [10392]  performance: AMTReleaseProductLicense took 0.186900 ms
+2019-07-11 16:19:26 [10392]  AMT: END SESSION.
+
+
+2019-07-11 16:19:27 [8640]  AMT: START SESSION, library version 6.0.0.75,6.0
+2019-07-11 16:19:27 [8640]  AMT: Initializing D:\Softwares\Adobe\Adobe Audition CS6
+2019-07-11 16:19:27 [8640]  AMT: Adobe License Manager version 3.5 (build 2.0) RELEASE
+2019-07-11 16:19:27 [8640]  AMT: Virtualization Turned off
+2019-07-11 16:19:27 [8640]  PCDService: PCD Service in non-threaded mode
+2019-07-11 16:19:27 [8640]  performance: AMTPreObtainProductLicense took 1.078200 ms
+2019-07-11 16:19:28 [8640]  AMT: RW check key updated !
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [0] = en_US
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [1] = en_GB
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [2] = de_DE
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [3] = es_ES
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [4] = es_MX
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [5] = fr_CA
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [6] = fr_FR
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [7] = it_IT
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [8] = ja_JP
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [9] = ko_KR
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [10] = ca_CA
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [11] = nl_NL
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [12] = pt_BR
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [13] = zh_TW
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [14] = sv_SE
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [15] = cs_CZ
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [16] = pl_PL
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [17] = ru_RU
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [18] = tr_TR
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [19] = en_AE
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [20] = en_IL
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [21] = fr_MA
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [22] = da_DK
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [23] = zh_CN
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [24] = hu_HU
+2019-07-11 16:19:28 [8640]  AMT: App Product Locale [25] = uk_UA
+2019-07-11 16:19:28 [8640]  config: Loading configuration for D:\Softwares\Adobe\Adobe Audition CS6\AMT\application.xml
+2019-07-11 16:19:28 [8640]  config: Found payload code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:28 [8640]  PCDService: found driver code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:28 [8640]  config: config: Host app was installed, using installed license configuration.
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [FLMap] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:19:28 [8640]  config: Setting current license to the driver at startup because no mapping was found.
+2019-07-11 16:19:28 [8640]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:19:28 [8640]  config: payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:28 [8640]  config: driver payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:28 [8640]  config: driver licensing code: Audition-CS6-Win-GM
+2019-07-11 16:19:28 [8640]  config: current licensing code: Audition-CS6-Win-GM
+2019-07-11 16:19:28 [8640]  config: current locale code: ALL
+2019-07-11 16:19:28 [8640]  config: Done loading configuration
+2019-07-11 16:19:28 [8640]  config: Setting insalled locales
+2019-07-11 16:19:28 [8640]  config: Changing locale to "zh_CN" because old locale "" is not in the new list of installed languages
+2019-07-11 16:19:28 [8640]  AMT: Installed Locale  [0] = zh_CN
+2019-07-11 16:19:28 [8640]  AMT: Reordered Locale  [0] = zh_CN
+2019-07-11 16:19:28 [8640]  AMT: config: Finding license info for payload: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:28 [8640]  AMT: config: PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:28 [8640]  AMT: config: Driver PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:28 [8640]  AMT: config: Installed LicensingCode: Audition-CS6-Win-GM
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [ISO_TAGGING_DISABLED] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [EULA] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [SuiteFeatureCount] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:28 [8640]  AMT: Application can be serialized (Non Passive App).
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}zh_CN] in cache : 519
+2019-07-11 16:19:28 [8640]  config: No zh_CN licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:19:28 [8640]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:19:28 [8640]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:19:28 [8640]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:19:28 [8640]  config: Enigma Data Found from SLCache
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:28 [8640]  AMT: Subsequent launch (serial [97658709181598059820] in trial).
+2019-07-11 16:19:28 [8640]  AMT: Application state initialized.  Obtaining Product License.
+2019-07-11 16:19:28 [8640]  AMT: Obtaining client features from cache.
+2019-07-11 16:19:28 [8640]  AMT: Obtaining client product info from cache.
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [ENABLE_GUEST] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:28 [8640]  AMT: Running in PROV_APP
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:28 [8640]  PCDService: No value for key [MediaTag] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:28 [8640]  config: No media tag found for payload {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:28 [8640]  config: Using default media policy RET
+2019-07-11 16:19:28 [8640]  uiswitch: EULA has already been accepted.
+2019-07-11 16:19:28 [8640]  AMT: This is a subsequent launch. Deferring services.
+2019-07-11 16:19:28 [8640]  performance: AMTObtainProductLicense took 46.850101 ms
+2019-07-11 16:19:31 [8640]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:31 [8640]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:31 [8640]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:31 [8640]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:31 [8640]  AUMService: config: No AdobeUpdaterCode found in configuration; AUM will be disabled.
+2019-07-11 16:19:31 [8640]  ServiceLoader: looking for library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:19:31 [8640]  ServiceLoader: Found library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:19:31 [8640]  performance: AMTReleaseProductLicense took 0.211600 ms
+2019-07-11 16:19:31 [8640]  AMT: END SESSION.
+
+
+2019-07-11 16:19:35 [8156]  AMT: START SESSION, library version 6.0.0.75,6.0
+2019-07-11 16:19:35 [8156]  AMT: Initializing D:\Softwares\Adobe\Adobe Audition CS6
+2019-07-11 16:19:35 [8156]  AMT: Adobe License Manager version 3.5 (build 2.0) RELEASE
+2019-07-11 16:19:35 [8156]  AMT: Virtualization Turned off
+2019-07-11 16:19:35 [8156]  PCDService: PCD Service in non-threaded mode
+2019-07-11 16:19:35 [8156]  performance: AMTPreObtainProductLicense took 1.038400 ms
+2019-07-11 16:19:35 [8156]  AMT: RW check key updated !
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [0] = en_US
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [1] = en_GB
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [2] = de_DE
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [3] = es_ES
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [4] = es_MX
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [5] = fr_CA
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [6] = fr_FR
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [7] = it_IT
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [8] = ja_JP
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [9] = ko_KR
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [10] = ca_CA
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [11] = nl_NL
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [12] = pt_BR
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [13] = zh_TW
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [14] = sv_SE
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [15] = cs_CZ
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [16] = pl_PL
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [17] = ru_RU
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [18] = tr_TR
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [19] = en_AE
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [20] = en_IL
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [21] = fr_MA
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [22] = da_DK
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [23] = zh_CN
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [24] = hu_HU
+2019-07-11 16:19:35 [8156]  AMT: App Product Locale [25] = uk_UA
+2019-07-11 16:19:35 [8156]  config: Loading configuration for D:\Softwares\Adobe\Adobe Audition CS6\AMT\application.xml
+2019-07-11 16:19:35 [8156]  config: Found payload code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:35 [8156]  PCDService: found driver code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:35 [8156]  config: config: Host app was installed, using installed license configuration.
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [FLMap] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:19:35 [8156]  config: Setting current license to the driver at startup because no mapping was found.
+2019-07-11 16:19:35 [8156]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:19:35 [8156]  config: payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:35 [8156]  config: driver payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:35 [8156]  config: driver licensing code: Audition-CS6-Win-GM
+2019-07-11 16:19:35 [8156]  config: current licensing code: Audition-CS6-Win-GM
+2019-07-11 16:19:35 [8156]  config: current locale code: ALL
+2019-07-11 16:19:35 [8156]  config: Done loading configuration
+2019-07-11 16:19:35 [8156]  config: Setting insalled locales
+2019-07-11 16:19:35 [8156]  config: Changing locale to "zh_CN" because old locale "" is not in the new list of installed languages
+2019-07-11 16:19:35 [8156]  AMT: Installed Locale  [0] = zh_CN
+2019-07-11 16:19:35 [8156]  AMT: Reordered Locale  [0] = zh_CN
+2019-07-11 16:19:35 [8156]  AMT: config: Finding license info for payload: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:35 [8156]  AMT: config: PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:35 [8156]  AMT: config: Driver PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:35 [8156]  AMT: config: Installed LicensingCode: Audition-CS6-Win-GM
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [ISO_TAGGING_DISABLED] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [EULA] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [SuiteFeatureCount] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:35 [8156]  AMT: Application can be serialized (Non Passive App).
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}zh_CN] in cache : 519
+2019-07-11 16:19:35 [8156]  config: No zh_CN licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:19:35 [8156]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:19:35 [8156]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:19:35 [8156]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:19:35 [8156]  config: Enigma Data Found from SLCache
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:35 [8156]  AMT: Subsequent launch (serial [97658709181598059820] in trial).
+2019-07-11 16:19:35 [8156]  AMT: Application state initialized.  Obtaining Product License.
+2019-07-11 16:19:35 [8156]  AMT: Obtaining client features from cache.
+2019-07-11 16:19:35 [8156]  AMT: Obtaining client product info from cache.
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [ENABLE_GUEST] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:19:35 [8156]  AMT: Running in PROV_APP
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:35 [8156]  PCDService: No value for key [MediaTag] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:35 [8156]  config: No media tag found for payload {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:19:35 [8156]  config: Using default media policy RET
+2019-07-11 16:19:35 [8156]  uiswitch: EULA has already been accepted.
+2019-07-11 16:19:35 [8156]  AMT: This is a subsequent launch. Deferring services.
+2019-07-11 16:19:35 [8156]  performance: AMTObtainProductLicense took 57.344398 ms
+2019-07-11 16:19:38 [8156]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:38 [8156]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:38 [8156]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:38 [8156]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:19:38 [8156]  AUMService: config: No AdobeUpdaterCode found in configuration; AUM will be disabled.
+2019-07-11 16:19:38 [8156]  ServiceLoader: looking for library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:19:38 [8156]  ServiceLoader: Found library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:19:38 [8156]  performance: AMTReleaseProductLicense took 0.171100 ms
+2019-07-11 16:19:38 [8156]  AMT: END SESSION.
+
+
+2019-07-11 16:20:45 [6672]  AMT: START SESSION, library version 6.0.0.75,6.0
+2019-07-11 16:20:45 [6672]  AMT: Initializing D:\Softwares\Adobe\Adobe Audition CS6
+2019-07-11 16:20:45 [6672]  AMT: Adobe License Manager version 3.5 (build 2.0) RELEASE
+2019-07-11 16:20:45 [6672]  AMT: Virtualization Turned off
+2019-07-11 16:20:45 [6672]  PCDService: PCD Service in non-threaded mode
+2019-07-11 16:20:45 [6672]  performance: AMTPreObtainProductLicense took 1.014600 ms
+2019-07-11 16:20:45 [6672]  AMT: RW check key updated !
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [0] = en_US
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [1] = en_GB
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [2] = de_DE
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [3] = es_ES
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [4] = es_MX
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [5] = fr_CA
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [6] = fr_FR
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [7] = it_IT
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [8] = ja_JP
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [9] = ko_KR
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [10] = ca_CA
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [11] = nl_NL
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [12] = pt_BR
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [13] = zh_TW
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [14] = sv_SE
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [15] = cs_CZ
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [16] = pl_PL
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [17] = ru_RU
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [18] = tr_TR
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [19] = en_AE
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [20] = en_IL
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [21] = fr_MA
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [22] = da_DK
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [23] = zh_CN
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [24] = hu_HU
+2019-07-11 16:20:45 [6672]  AMT: App Product Locale [25] = uk_UA
+2019-07-11 16:20:45 [6672]  config: Loading configuration for D:\Softwares\Adobe\Adobe Audition CS6\AMT\application.xml
+2019-07-11 16:20:45 [6672]  config: Found payload code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:20:45 [6672]  PCDService: found driver code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:20:45 [6672]  config: config: Host app was installed, using installed license configuration.
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [FLMap] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:20:45 [6672]  config: Setting current license to the driver at startup because no mapping was found.
+2019-07-11 16:20:45 [6672]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:20:45 [6672]  config: payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:20:45 [6672]  config: driver payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:20:45 [6672]  config: driver licensing code: Audition-CS6-Win-GM
+2019-07-11 16:20:45 [6672]  config: current licensing code: Audition-CS6-Win-GM
+2019-07-11 16:20:45 [6672]  config: current locale code: ALL
+2019-07-11 16:20:45 [6672]  config: Done loading configuration
+2019-07-11 16:20:45 [6672]  config: Setting insalled locales
+2019-07-11 16:20:45 [6672]  config: Changing locale to "zh_CN" because old locale "" is not in the new list of installed languages
+2019-07-11 16:20:45 [6672]  AMT: Installed Locale  [0] = zh_CN
+2019-07-11 16:20:45 [6672]  AMT: Reordered Locale  [0] = zh_CN
+2019-07-11 16:20:45 [6672]  AMT: config: Finding license info for payload: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:20:45 [6672]  AMT: config: PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:20:45 [6672]  AMT: config: Driver PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:20:45 [6672]  AMT: config: Installed LicensingCode: Audition-CS6-Win-GM
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [ISO_TAGGING_DISABLED] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [EULA] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [SuiteFeatureCount] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:20:45 [6672]  AMT: Application can be serialized (Non Passive App).
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}zh_CN] in cache : 519
+2019-07-11 16:20:45 [6672]  config: No zh_CN licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:20:45 [6672]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:20:45 [6672]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:20:45 [6672]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:20:45 [6672]  config: Enigma Data Found from SLCache
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:20:45 [6672]  AMT: Subsequent launch (serial [97658709181598059820] in trial).
+2019-07-11 16:20:45 [6672]  AMT: Application state initialized.  Obtaining Product License.
+2019-07-11 16:20:45 [6672]  AMT: Obtaining client features from cache.
+2019-07-11 16:20:45 [6672]  AMT: Obtaining client product info from cache.
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [ENABLE_GUEST] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:20:45 [6672]  AMT: Running in PROV_APP
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:20:45 [6672]  PCDService: No value for key [MediaTag] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:20:45 [6672]  config: No media tag found for payload {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:20:45 [6672]  config: Using default media policy RET
+2019-07-11 16:20:45 [6672]  uiswitch: EULA has already been accepted.
+2019-07-11 16:20:45 [6672]  AMT: This is a subsequent launch. Deferring services.
+2019-07-11 16:20:45 [6672]  performance: AMTObtainProductLicense took 224.799103 ms
+2019-07-11 16:20:48 [6672]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:20:48 [6672]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:20:48 [6672]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:20:48 [6672]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:20:48 [6672]  AUMService: config: No AdobeUpdaterCode found in configuration; AUM will be disabled.
+2019-07-11 16:20:48 [6672]  ServiceLoader: looking for library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:20:48 [6672]  ServiceLoader: Found library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:20:48 [6672]  performance: AMTReleaseProductLicense took 0.170800 ms
+2019-07-11 16:20:48 [6672]  AMT: END SESSION.
+
+
+2019-07-11 16:24:05 [4856]  AMT: START SESSION, library version 6.0.0.75,6.0
+2019-07-11 16:24:05 [4856]  AMT: Initializing D:\Softwares\Adobe\Adobe Audition CS6
+2019-07-11 16:24:05 [4856]  AMT: Adobe License Manager version 3.5 (build 2.0) RELEASE
+2019-07-11 16:24:05 [4856]  AMT: Virtualization Turned off
+2019-07-11 16:24:05 [4856]  PCDService: PCD Service in non-threaded mode
+2019-07-11 16:24:05 [4856]  performance: AMTPreObtainProductLicense took 22.011900 ms
+2019-07-11 16:24:05 [4856]  AMT: RW check key updated !
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [0] = en_US
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [1] = en_GB
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [2] = de_DE
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [3] = es_ES
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [4] = es_MX
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [5] = fr_CA
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [6] = fr_FR
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [7] = it_IT
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [8] = ja_JP
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [9] = ko_KR
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [10] = ca_CA
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [11] = nl_NL
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [12] = pt_BR
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [13] = zh_TW
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [14] = sv_SE
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [15] = cs_CZ
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [16] = pl_PL
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [17] = ru_RU
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [18] = tr_TR
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [19] = en_AE
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [20] = en_IL
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [21] = fr_MA
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [22] = da_DK
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [23] = zh_CN
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [24] = hu_HU
+2019-07-11 16:24:05 [4856]  AMT: App Product Locale [25] = uk_UA
+2019-07-11 16:24:05 [4856]  config: Loading configuration for D:\Softwares\Adobe\Adobe Audition CS6\AMT\application.xml
+2019-07-11 16:24:05 [4856]  config: Found payload code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:05 [4856]  PCDService: found driver code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:05 [4856]  config: config: Host app was installed, using installed license configuration.
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [FLMap] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:24:05 [4856]  config: Setting current license to the driver at startup because no mapping was found.
+2019-07-11 16:24:05 [4856]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:24:05 [4856]  config: payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:05 [4856]  config: driver payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:05 [4856]  config: driver licensing code: Audition-CS6-Win-GM
+2019-07-11 16:24:05 [4856]  config: current licensing code: Audition-CS6-Win-GM
+2019-07-11 16:24:05 [4856]  config: current locale code: ALL
+2019-07-11 16:24:05 [4856]  config: Done loading configuration
+2019-07-11 16:24:05 [4856]  config: Setting insalled locales
+2019-07-11 16:24:05 [4856]  config: Changing locale to "zh_CN" because old locale "" is not in the new list of installed languages
+2019-07-11 16:24:05 [4856]  AMT: Installed Locale  [0] = zh_CN
+2019-07-11 16:24:05 [4856]  AMT: Reordered Locale  [0] = zh_CN
+2019-07-11 16:24:05 [4856]  AMT: config: Finding license info for payload: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:05 [4856]  AMT: config: PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:05 [4856]  AMT: config: Driver PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:05 [4856]  AMT: config: Installed LicensingCode: Audition-CS6-Win-GM
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [ISO_TAGGING_DISABLED] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [EULA] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [SuiteFeatureCount] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:05 [4856]  AMT: Application can be serialized (Non Passive App).
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}zh_CN] in cache : 519
+2019-07-11 16:24:05 [4856]  config: No zh_CN licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:24:05 [4856]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:24:05 [4856]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:24:05 [4856]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:24:05 [4856]  config: Enigma Data Found from SLCache
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:05 [4856]  AMT: Subsequent launch (serial [97658709181598059820] in trial).
+2019-07-11 16:24:05 [4856]  AMT: Application state initialized.  Obtaining Product License.
+2019-07-11 16:24:05 [4856]  AMT: Obtaining client features from cache.
+2019-07-11 16:24:05 [4856]  AMT: Obtaining client product info from cache.
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [ENABLE_GUEST] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:05 [4856]  AMT: Running in PROV_APP
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:05 [4856]  PCDService: No value for key [MediaTag] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:05 [4856]  config: No media tag found for payload {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:05 [4856]  config: Using default media policy RET
+2019-07-11 16:24:05 [4856]  uiswitch: EULA has already been accepted.
+2019-07-11 16:24:05 [4856]  AMT: This is a subsequent launch. Deferring services.
+2019-07-11 16:24:05 [4856]  performance: AMTObtainProductLicense took 58.068699 ms
+2019-07-11 16:24:08 [4856]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:08 [4856]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:08 [4856]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:08 [4856]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:08 [4856]  AUMService: config: No AdobeUpdaterCode found in configuration; AUM will be disabled.
+2019-07-11 16:24:08 [4856]  ServiceLoader: looking for library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:24:08 [4856]  ServiceLoader: Found library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:24:08 [4856]  performance: AMTReleaseProductLicense took 0.176500 ms
+2019-07-11 16:24:08 [4856]  AMT: END SESSION.
+
+
+2019-07-11 16:24:10 [6360]  AMT: START SESSION, library version 6.0.0.75,6.0
+2019-07-11 16:24:10 [6360]  AMT: Initializing D:\Softwares\Adobe\Adobe Audition CS6
+2019-07-11 16:24:10 [6360]  AMT: Adobe License Manager version 3.5 (build 2.0) RELEASE
+2019-07-11 16:24:10 [6360]  AMT: Virtualization Turned off
+2019-07-11 16:24:10 [6360]  PCDService: PCD Service in non-threaded mode
+2019-07-11 16:24:10 [6360]  performance: AMTPreObtainProductLicense took 1.033400 ms
+2019-07-11 16:24:10 [6360]  AMT: RW check key updated !
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [0] = en_US
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [1] = en_GB
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [2] = de_DE
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [3] = es_ES
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [4] = es_MX
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [5] = fr_CA
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [6] = fr_FR
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [7] = it_IT
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [8] = ja_JP
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [9] = ko_KR
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [10] = ca_CA
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [11] = nl_NL
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [12] = pt_BR
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [13] = zh_TW
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [14] = sv_SE
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [15] = cs_CZ
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [16] = pl_PL
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [17] = ru_RU
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [18] = tr_TR
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [19] = en_AE
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [20] = en_IL
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [21] = fr_MA
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [22] = da_DK
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [23] = zh_CN
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [24] = hu_HU
+2019-07-11 16:24:10 [6360]  AMT: App Product Locale [25] = uk_UA
+2019-07-11 16:24:10 [6360]  config: Loading configuration for D:\Softwares\Adobe\Adobe Audition CS6\AMT\application.xml
+2019-07-11 16:24:10 [6360]  config: Found payload code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:10 [6360]  PCDService: found driver code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:10 [6360]  config: config: Host app was installed, using installed license configuration.
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [FLMap] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:24:10 [6360]  config: Setting current license to the driver at startup because no mapping was found.
+2019-07-11 16:24:10 [6360]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:24:10 [6360]  config: payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:10 [6360]  config: driver payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:10 [6360]  config: driver licensing code: Audition-CS6-Win-GM
+2019-07-11 16:24:10 [6360]  config: current licensing code: Audition-CS6-Win-GM
+2019-07-11 16:24:10 [6360]  config: current locale code: ALL
+2019-07-11 16:24:10 [6360]  config: Done loading configuration
+2019-07-11 16:24:10 [6360]  config: Setting insalled locales
+2019-07-11 16:24:10 [6360]  config: Changing locale to "zh_CN" because old locale "" is not in the new list of installed languages
+2019-07-11 16:24:10 [6360]  AMT: Installed Locale  [0] = zh_CN
+2019-07-11 16:24:10 [6360]  AMT: Reordered Locale  [0] = zh_CN
+2019-07-11 16:24:10 [6360]  AMT: config: Finding license info for payload: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:10 [6360]  AMT: config: PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:10 [6360]  AMT: config: Driver PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:10 [6360]  AMT: config: Installed LicensingCode: Audition-CS6-Win-GM
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [ISO_TAGGING_DISABLED] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [EULA] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [SuiteFeatureCount] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:10 [6360]  AMT: Application can be serialized (Non Passive App).
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}zh_CN] in cache : 519
+2019-07-11 16:24:10 [6360]  config: No zh_CN licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:24:10 [6360]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:24:10 [6360]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:24:10 [6360]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:24:10 [6360]  config: Enigma Data Found from SLCache
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:10 [6360]  AMT: Subsequent launch (serial [97658709181598059820] in trial).
+2019-07-11 16:24:10 [6360]  AMT: Application state initialized.  Obtaining Product License.
+2019-07-11 16:24:10 [6360]  AMT: Obtaining client features from cache.
+2019-07-11 16:24:10 [6360]  AMT: Obtaining client product info from cache.
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [ENABLE_GUEST] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:10 [6360]  AMT: Running in PROV_APP
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:10 [6360]  PCDService: No value for key [MediaTag] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:10 [6360]  config: No media tag found for payload {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:10 [6360]  config: Using default media policy RET
+2019-07-11 16:24:10 [6360]  uiswitch: EULA has already been accepted.
+2019-07-11 16:24:10 [6360]  AMT: This is a subsequent launch. Deferring services.
+2019-07-11 16:24:10 [6360]  performance: AMTObtainProductLicense took 55.601898 ms
+2019-07-11 16:24:13 [6360]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:13 [6360]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:13 [6360]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:13 [6360]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:13 [6360]  AUMService: config: No AdobeUpdaterCode found in configuration; AUM will be disabled.
+2019-07-11 16:24:13 [6360]  ServiceLoader: looking for library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:24:13 [6360]  ServiceLoader: Found library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:24:13 [6360]  performance: AMTReleaseProductLicense took 0.209200 ms
+2019-07-11 16:24:13 [6360]  AMT: END SESSION.
+
+
+2019-07-11 16:24:18 [12048]  AMT: START SESSION, library version 6.0.0.75,6.0
+2019-07-11 16:24:18 [12048]  AMT: Initializing D:\Softwares\Adobe\Adobe Audition CS6
+2019-07-11 16:24:18 [12048]  AMT: Adobe License Manager version 3.5 (build 2.0) RELEASE
+2019-07-11 16:24:18 [12048]  AMT: Virtualization Turned off
+2019-07-11 16:24:18 [12048]  PCDService: PCD Service in non-threaded mode
+2019-07-11 16:24:18 [12048]  performance: AMTPreObtainProductLicense took 1.077800 ms
+2019-07-11 16:24:18 [12048]  AMT: RW check key updated !
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [0] = en_US
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [1] = en_GB
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [2] = de_DE
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [3] = es_ES
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [4] = es_MX
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [5] = fr_CA
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [6] = fr_FR
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [7] = it_IT
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [8] = ja_JP
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [9] = ko_KR
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [10] = ca_CA
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [11] = nl_NL
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [12] = pt_BR
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [13] = zh_TW
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [14] = sv_SE
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [15] = cs_CZ
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [16] = pl_PL
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [17] = ru_RU
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [18] = tr_TR
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [19] = en_AE
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [20] = en_IL
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [21] = fr_MA
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [22] = da_DK
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [23] = zh_CN
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [24] = hu_HU
+2019-07-11 16:24:18 [12048]  AMT: App Product Locale [25] = uk_UA
+2019-07-11 16:24:18 [12048]  config: Loading configuration for D:\Softwares\Adobe\Adobe Audition CS6\AMT\application.xml
+2019-07-11 16:24:18 [12048]  config: Found payload code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:18 [12048]  PCDService: found driver code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:18 [12048]  config: config: Host app was installed, using installed license configuration.
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [FLMap] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:24:18 [12048]  config: Setting current license to the driver at startup because no mapping was found.
+2019-07-11 16:24:18 [12048]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:24:18 [12048]  config: payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:18 [12048]  config: driver payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:18 [12048]  config: driver licensing code: Audition-CS6-Win-GM
+2019-07-11 16:24:18 [12048]  config: current licensing code: Audition-CS6-Win-GM
+2019-07-11 16:24:18 [12048]  config: current locale code: ALL
+2019-07-11 16:24:18 [12048]  config: Done loading configuration
+2019-07-11 16:24:18 [12048]  config: Setting insalled locales
+2019-07-11 16:24:18 [12048]  config: Changing locale to "zh_CN" because old locale "" is not in the new list of installed languages
+2019-07-11 16:24:18 [12048]  AMT: Installed Locale  [0] = zh_CN
+2019-07-11 16:24:18 [12048]  AMT: Reordered Locale  [0] = zh_CN
+2019-07-11 16:24:18 [12048]  AMT: config: Finding license info for payload: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:18 [12048]  AMT: config: PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:18 [12048]  AMT: config: Driver PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:18 [12048]  AMT: config: Installed LicensingCode: Audition-CS6-Win-GM
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [ISO_TAGGING_DISABLED] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [EULA] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [SuiteFeatureCount] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:18 [12048]  AMT: Application can be serialized (Non Passive App).
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}zh_CN] in cache : 519
+2019-07-11 16:24:18 [12048]  config: No zh_CN licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:24:18 [12048]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:24:18 [12048]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:24:18 [12048]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:24:18 [12048]  config: Enigma Data Found from SLCache
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:18 [12048]  AMT: Subsequent launch (serial [97658709181598059820] in trial).
+2019-07-11 16:24:18 [12048]  AMT: Application state initialized.  Obtaining Product License.
+2019-07-11 16:24:18 [12048]  AMT: Obtaining client features from cache.
+2019-07-11 16:24:18 [12048]  AMT: Obtaining client product info from cache.
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [ENABLE_GUEST] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:24:18 [12048]  AMT: Running in PROV_APP
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:18 [12048]  PCDService: No value for key [MediaTag] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:18 [12048]  config: No media tag found for payload {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:24:18 [12048]  config: Using default media policy RET
+2019-07-11 16:24:18 [12048]  uiswitch: EULA has already been accepted.
+2019-07-11 16:24:18 [12048]  AMT: This is a subsequent launch. Deferring services.
+2019-07-11 16:24:18 [12048]  performance: AMTObtainProductLicense took 39.339001 ms
+2019-07-11 16:24:21 [12048]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:21 [12048]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:21 [12048]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:21 [12048]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:24:21 [12048]  AUMService: config: No AdobeUpdaterCode found in configuration; AUM will be disabled.
+2019-07-11 16:24:21 [12048]  ServiceLoader: looking for library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:24:21 [12048]  ServiceLoader: Found library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:24:21 [12048]  performance: AMTReleaseProductLicense took 0.220900 ms
+2019-07-11 16:24:21 [12048]  AMT: END SESSION.
+
+
+2019-07-11 16:26:17 [4128]  AMT: START SESSION, library version 6.0.0.75,6.0
+2019-07-11 16:26:17 [4128]  AMT: Initializing D:\Softwares\Adobe\Adobe Audition CS6
+2019-07-11 16:26:17 [4128]  AMT: Adobe License Manager version 3.5 (build 2.0) RELEASE
+2019-07-11 16:26:17 [4128]  AMT: Virtualization Turned off
+2019-07-11 16:26:17 [4128]  PCDService: PCD Service in non-threaded mode
+2019-07-11 16:26:17 [4128]  performance: AMTPreObtainProductLicense took 1.045400 ms
+2019-07-11 16:26:18 [4128]  AMT: RW check key updated !
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [0] = en_US
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [1] = en_GB
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [2] = de_DE
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [3] = es_ES
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [4] = es_MX
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [5] = fr_CA
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [6] = fr_FR
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [7] = it_IT
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [8] = ja_JP
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [9] = ko_KR
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [10] = ca_CA
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [11] = nl_NL
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [12] = pt_BR
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [13] = zh_TW
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [14] = sv_SE
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [15] = cs_CZ
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [16] = pl_PL
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [17] = ru_RU
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [18] = tr_TR
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [19] = en_AE
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [20] = en_IL
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [21] = fr_MA
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [22] = da_DK
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [23] = zh_CN
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [24] = hu_HU
+2019-07-11 16:26:18 [4128]  AMT: App Product Locale [25] = uk_UA
+2019-07-11 16:26:18 [4128]  config: Loading configuration for D:\Softwares\Adobe\Adobe Audition CS6\AMT\application.xml
+2019-07-11 16:26:18 [4128]  config: Found payload code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:18 [4128]  PCDService: found driver code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:18 [4128]  config: config: Host app was installed, using installed license configuration.
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [FLMap] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:26:18 [4128]  config: Setting current license to the driver at startup because no mapping was found.
+2019-07-11 16:26:18 [4128]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:26:18 [4128]  config: payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:18 [4128]  config: driver payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:18 [4128]  config: driver licensing code: Audition-CS6-Win-GM
+2019-07-11 16:26:18 [4128]  config: current licensing code: Audition-CS6-Win-GM
+2019-07-11 16:26:18 [4128]  config: current locale code: ALL
+2019-07-11 16:26:18 [4128]  config: Done loading configuration
+2019-07-11 16:26:18 [4128]  config: Setting insalled locales
+2019-07-11 16:26:18 [4128]  config: Changing locale to "zh_CN" because old locale "" is not in the new list of installed languages
+2019-07-11 16:26:18 [4128]  AMT: Installed Locale  [0] = zh_CN
+2019-07-11 16:26:18 [4128]  AMT: Reordered Locale  [0] = zh_CN
+2019-07-11 16:26:18 [4128]  AMT: config: Finding license info for payload: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:18 [4128]  AMT: config: PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:18 [4128]  AMT: config: Driver PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:18 [4128]  AMT: config: Installed LicensingCode: Audition-CS6-Win-GM
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [ISO_TAGGING_DISABLED] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [EULA] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [SuiteFeatureCount] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:18 [4128]  AMT: Application can be serialized (Non Passive App).
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}zh_CN] in cache : 519
+2019-07-11 16:26:18 [4128]  config: No zh_CN licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:26:18 [4128]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:26:18 [4128]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:26:18 [4128]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:26:18 [4128]  config: Enigma Data Found from SLCache
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:18 [4128]  AMT: Subsequent launch (serial [97658709181598059820] in trial).
+2019-07-11 16:26:18 [4128]  AMT: Application state initialized.  Obtaining Product License.
+2019-07-11 16:26:18 [4128]  AMT: Obtaining client features from cache.
+2019-07-11 16:26:18 [4128]  AMT: Obtaining client product info from cache.
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [ENABLE_GUEST] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:18 [4128]  AMT: Running in PROV_APP
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:18 [4128]  PCDService: No value for key [MediaTag] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:18 [4128]  config: No media tag found for payload {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:18 [4128]  config: Using default media policy RET
+2019-07-11 16:26:18 [4128]  uiswitch: EULA has already been accepted.
+2019-07-11 16:26:18 [4128]  AMT: This is a subsequent launch. Deferring services.
+2019-07-11 16:26:18 [4128]  performance: AMTObtainProductLicense took 86.115898 ms
+2019-07-11 16:26:31 [5676]  AMT: START SESSION, library version 6.0.0.75,6.0
+2019-07-11 16:26:31 [5676]  AMT: Initializing D:\Softwares\Adobe\Adobe Audition CS6
+2019-07-11 16:26:31 [5676]  AMT: Adobe License Manager version 3.5 (build 2.0) RELEASE
+2019-07-11 16:26:31 [5676]  AMT: Virtualization Turned off
+2019-07-11 16:26:31 [5676]  PCDService: PCD Service in non-threaded mode
+2019-07-11 16:26:31 [5676]  performance: AMTPreObtainProductLicense took 1.177000 ms
+2019-07-11 16:26:31 [5676]  AMT: RW check key updated !
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [0] = en_US
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [1] = en_GB
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [2] = de_DE
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [3] = es_ES
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [4] = es_MX
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [5] = fr_CA
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [6] = fr_FR
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [7] = it_IT
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [8] = ja_JP
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [9] = ko_KR
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [10] = ca_CA
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [11] = nl_NL
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [12] = pt_BR
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [13] = zh_TW
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [14] = sv_SE
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [15] = cs_CZ
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [16] = pl_PL
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [17] = ru_RU
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [18] = tr_TR
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [19] = en_AE
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [20] = en_IL
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [21] = fr_MA
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [22] = da_DK
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [23] = zh_CN
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [24] = hu_HU
+2019-07-11 16:26:31 [5676]  AMT: App Product Locale [25] = uk_UA
+2019-07-11 16:26:31 [5676]  config: Loading configuration for D:\Softwares\Adobe\Adobe Audition CS6\AMT\application.xml
+2019-07-11 16:26:31 [5676]  config: Found payload code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:31 [5676]  PCDService: found driver code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:31 [5676]  config: config: Host app was installed, using installed license configuration.
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [FLMap] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:26:31 [5676]  config: Setting current license to the driver at startup because no mapping was found.
+2019-07-11 16:26:31 [5676]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:26:31 [5676]  config: payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:31 [5676]  config: driver payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:31 [5676]  config: driver licensing code: Audition-CS6-Win-GM
+2019-07-11 16:26:31 [5676]  config: current licensing code: Audition-CS6-Win-GM
+2019-07-11 16:26:31 [5676]  config: current locale code: ALL
+2019-07-11 16:26:31 [5676]  config: Done loading configuration
+2019-07-11 16:26:31 [5676]  config: Setting insalled locales
+2019-07-11 16:26:31 [5676]  config: Changing locale to "zh_CN" because old locale "" is not in the new list of installed languages
+2019-07-11 16:26:31 [5676]  AMT: Installed Locale  [0] = zh_CN
+2019-07-11 16:26:31 [5676]  AMT: Reordered Locale  [0] = zh_CN
+2019-07-11 16:26:31 [5676]  AMT: config: Finding license info for payload: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:31 [5676]  AMT: config: PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:31 [5676]  AMT: config: Driver PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:31 [5676]  AMT: config: Installed LicensingCode: Audition-CS6-Win-GM
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [ISO_TAGGING_DISABLED] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [EULA] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [SuiteFeatureCount] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:31 [5676]  AMT: Application can be serialized (Non Passive App).
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}zh_CN] in cache : 519
+2019-07-11 16:26:31 [5676]  config: No zh_CN licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:26:31 [5676]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:26:31 [5676]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:26:31 [5676]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:26:31 [5676]  config: Enigma Data Found from SLCache
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:31 [5676]  AMT: Subsequent launch (serial [97658709181598059820] in trial).
+2019-07-11 16:26:31 [5676]  AMT: Application state initialized.  Obtaining Product License.
+2019-07-11 16:26:31 [5676]  AMT: Obtaining client features from cache.
+2019-07-11 16:26:31 [5676]  AMT: Obtaining client product info from cache.
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [ENABLE_GUEST] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:31 [5676]  AMT: Running in PROV_APP
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:31 [5676]  PCDService: No value for key [MediaTag] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:31 [5676]  config: No media tag found for payload {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:31 [5676]  config: Using default media policy RET
+2019-07-11 16:26:31 [5676]  uiswitch: EULA has already been accepted.
+2019-07-11 16:26:31 [5676]  AMT: This is a subsequent launch. Deferring services.
+2019-07-11 16:26:31 [5676]  performance: AMTObtainProductLicense took 40.374100 ms
+2019-07-11 16:26:42 [5676]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:42 [5676]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:42 [5676]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:42 [5676]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:42 [5676]  AUMService: config: No AdobeUpdaterCode found in configuration; AUM will be disabled.
+2019-07-11 16:26:42 [5676]  ServiceLoader: looking for library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:26:42 [5676]  ServiceLoader: Found library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:26:42 [5676]  performance: AMTReleaseProductLicense took 0.181700 ms
+2019-07-11 16:26:42 [5676]  AMT: END SESSION.
+
+
+2019-07-11 16:26:43 [944]  AMT: START SESSION, library version 6.0.0.75,6.0
+2019-07-11 16:26:43 [944]  AMT: Initializing D:\Softwares\Adobe\Adobe Audition CS6
+2019-07-11 16:26:43 [944]  AMT: Adobe License Manager version 3.5 (build 2.0) RELEASE
+2019-07-11 16:26:43 [944]  AMT: Virtualization Turned off
+2019-07-11 16:26:43 [944]  PCDService: PCD Service in non-threaded mode
+2019-07-11 16:26:43 [944]  performance: AMTPreObtainProductLicense took 1.042100 ms
+2019-07-11 16:26:43 [944]  AMT: RW check key updated !
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [0] = en_US
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [1] = en_GB
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [2] = de_DE
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [3] = es_ES
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [4] = es_MX
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [5] = fr_CA
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [6] = fr_FR
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [7] = it_IT
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [8] = ja_JP
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [9] = ko_KR
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [10] = ca_CA
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [11] = nl_NL
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [12] = pt_BR
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [13] = zh_TW
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [14] = sv_SE
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [15] = cs_CZ
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [16] = pl_PL
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [17] = ru_RU
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [18] = tr_TR
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [19] = en_AE
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [20] = en_IL
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [21] = fr_MA
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [22] = da_DK
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [23] = zh_CN
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [24] = hu_HU
+2019-07-11 16:26:43 [944]  AMT: App Product Locale [25] = uk_UA
+2019-07-11 16:26:43 [944]  config: Loading configuration for D:\Softwares\Adobe\Adobe Audition CS6\AMT\application.xml
+2019-07-11 16:26:43 [944]  config: Found payload code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:43 [944]  PCDService: found driver code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:43 [944]  config: config: Host app was installed, using installed license configuration.
+2019-07-11 16:26:43 [944]  PCDService: No value for key [FLMap] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:26:43 [944]  config: Setting current license to the driver at startup because no mapping was found.
+2019-07-11 16:26:43 [944]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:26:43 [944]  config: payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:43 [944]  config: driver payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:43 [944]  config: driver licensing code: Audition-CS6-Win-GM
+2019-07-11 16:26:43 [944]  config: current licensing code: Audition-CS6-Win-GM
+2019-07-11 16:26:43 [944]  config: current locale code: ALL
+2019-07-11 16:26:43 [944]  config: Done loading configuration
+2019-07-11 16:26:43 [944]  config: Setting insalled locales
+2019-07-11 16:26:43 [944]  config: Changing locale to "zh_CN" because old locale "" is not in the new list of installed languages
+2019-07-11 16:26:43 [944]  AMT: Installed Locale  [0] = zh_CN
+2019-07-11 16:26:43 [944]  AMT: Reordered Locale  [0] = zh_CN
+2019-07-11 16:26:43 [944]  AMT: config: Finding license info for payload: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:43 [944]  AMT: config: PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:43 [944]  AMT: config: Driver PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:43 [944]  AMT: config: Installed LicensingCode: Audition-CS6-Win-GM
+2019-07-11 16:26:43 [944]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:43 [944]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:43 [944]  PCDService: No value for key [ISO_TAGGING_DISABLED] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:43 [944]  PCDService: No value for key [EULA] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:43 [944]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:43 [944]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:43 [944]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:43 [944]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:43 [944]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:43 [944]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:43 [944]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:43 [944]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:43 [944]  PCDService: No value for key [SuiteFeatureCount] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:43 [944]  AMT: Application can be serialized (Non Passive App).
+2019-07-11 16:26:43 [944]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}zh_CN] in cache : 519
+2019-07-11 16:26:43 [944]  config: No zh_CN licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:26:43 [944]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:26:43 [944]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:26:43 [944]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:26:43 [944]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:26:43 [944]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:26:43 [944]  config: Enigma Data Found from SLCache
+2019-07-11 16:26:43 [944]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:43 [944]  AMT: Subsequent launch (serial [97658709181598059820] in trial).
+2019-07-11 16:26:43 [944]  AMT: Application state initialized.  Obtaining Product License.
+2019-07-11 16:26:43 [944]  AMT: Obtaining client features from cache.
+2019-07-11 16:26:43 [944]  AMT: Obtaining client product info from cache.
+2019-07-11 16:26:43 [944]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:43 [944]  PCDService: No value for key [ENABLE_GUEST] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:43 [944]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:26:43 [944]  AMT: Running in PROV_APP
+2019-07-11 16:26:43 [944]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:43 [944]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:43 [944]  PCDService: No value for key [MediaTag] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:26:43 [944]  config: No media tag found for payload {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:26:43 [944]  config: Using default media policy RET
+2019-07-11 16:26:43 [944]  uiswitch: EULA has already been accepted.
+2019-07-11 16:26:43 [944]  AMT: This is a subsequent launch. Deferring services.
+2019-07-11 16:26:43 [944]  performance: AMTObtainProductLicense took 53.655602 ms
+2019-07-11 16:27:08 [944]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:27:08 [944]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:27:08 [944]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:27:08 [944]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:27:08 [944]  AUMService: config: No AdobeUpdaterCode found in configuration; AUM will be disabled.
+2019-07-11 16:27:08 [944]  ServiceLoader: looking for library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:27:08 [944]  ServiceLoader: Found library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:27:08 [944]  performance: AMTReleaseProductLicense took 0.176500 ms
+2019-07-11 16:27:08 [944]  AMT: END SESSION.
+
+
+2019-07-11 16:33:16 [6188]  AMT: START SESSION, library version 6.0.0.75,6.0
+2019-07-11 16:33:16 [6188]  AMT: Initializing D:\Softwares\Adobe\Adobe Audition CS6
+2019-07-11 16:33:16 [6188]  AMT: Adobe License Manager version 3.5 (build 2.0) RELEASE
+2019-07-11 16:33:16 [6188]  AMT: Virtualization Turned off
+2019-07-11 16:33:16 [6188]  PCDService: PCD Service in non-threaded mode
+2019-07-11 16:33:16 [6188]  performance: AMTPreObtainProductLicense took 26.885099 ms
+2019-07-11 16:33:16 [6188]  AMT: RW check key updated !
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [0] = en_US
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [1] = en_GB
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [2] = de_DE
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [3] = es_ES
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [4] = es_MX
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [5] = fr_CA
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [6] = fr_FR
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [7] = it_IT
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [8] = ja_JP
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [9] = ko_KR
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [10] = ca_CA
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [11] = nl_NL
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [12] = pt_BR
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [13] = zh_TW
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [14] = sv_SE
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [15] = cs_CZ
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [16] = pl_PL
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [17] = ru_RU
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [18] = tr_TR
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [19] = en_AE
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [20] = en_IL
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [21] = fr_MA
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [22] = da_DK
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [23] = zh_CN
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [24] = hu_HU
+2019-07-11 16:33:16 [6188]  AMT: App Product Locale [25] = uk_UA
+2019-07-11 16:33:16 [6188]  config: Loading configuration for D:\Softwares\Adobe\Adobe Audition CS6\AMT\application.xml
+2019-07-11 16:33:16 [6188]  config: Found payload code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:16 [6188]  PCDService: found driver code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:16 [6188]  config: config: Host app was installed, using installed license configuration.
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [FLMap] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:33:16 [6188]  config: Setting current license to the driver at startup because no mapping was found.
+2019-07-11 16:33:16 [6188]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:33:16 [6188]  config: payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:16 [6188]  config: driver payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:16 [6188]  config: driver licensing code: Audition-CS6-Win-GM
+2019-07-11 16:33:16 [6188]  config: current licensing code: Audition-CS6-Win-GM
+2019-07-11 16:33:16 [6188]  config: current locale code: ALL
+2019-07-11 16:33:16 [6188]  config: Done loading configuration
+2019-07-11 16:33:16 [6188]  config: Setting insalled locales
+2019-07-11 16:33:16 [6188]  config: Changing locale to "zh_CN" because old locale "" is not in the new list of installed languages
+2019-07-11 16:33:16 [6188]  AMT: Installed Locale  [0] = zh_CN
+2019-07-11 16:33:16 [6188]  AMT: Reordered Locale  [0] = zh_CN
+2019-07-11 16:33:16 [6188]  AMT: config: Finding license info for payload: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:16 [6188]  AMT: config: PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:16 [6188]  AMT: config: Driver PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:16 [6188]  AMT: config: Installed LicensingCode: Audition-CS6-Win-GM
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [ISO_TAGGING_DISABLED] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [EULA] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [SuiteFeatureCount] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:16 [6188]  AMT: Application can be serialized (Non Passive App).
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}zh_CN] in cache : 519
+2019-07-11 16:33:16 [6188]  config: No zh_CN licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:33:16 [6188]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:33:16 [6188]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:33:16 [6188]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:33:16 [6188]  config: Enigma Data Found from SLCache
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:16 [6188]  AMT: Subsequent launch (serial [97658709181598059820] in trial).
+2019-07-11 16:33:16 [6188]  AMT: Application state initialized.  Obtaining Product License.
+2019-07-11 16:33:16 [6188]  AMT: Obtaining client features from cache.
+2019-07-11 16:33:16 [6188]  AMT: Obtaining client product info from cache.
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [ENABLE_GUEST] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:16 [6188]  AMT: Running in PROV_APP
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:16 [6188]  PCDService: No value for key [MediaTag] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:16 [6188]  config: No media tag found for payload {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:16 [6188]  config: Using default media policy RET
+2019-07-11 16:33:16 [6188]  uiswitch: EULA has already been accepted.
+2019-07-11 16:33:16 [6188]  AMT: This is a subsequent launch. Deferring services.
+2019-07-11 16:33:16 [6188]  performance: AMTObtainProductLicense took 85.286598 ms
+2019-07-11 16:33:34 [6188]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:34 [6188]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:34 [6188]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:34 [6188]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:34 [6188]  AUMService: config: No AdobeUpdaterCode found in configuration; AUM will be disabled.
+2019-07-11 16:33:34 [6188]  ServiceLoader: looking for library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:33:34 [6188]  ServiceLoader: Found library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:33:34 [6188]  performance: AMTReleaseProductLicense took 0.173100 ms
+2019-07-11 16:33:34 [6188]  AMT: END SESSION.
+
+
+2019-07-11 16:33:35 [7084]  AMT: START SESSION, library version 6.0.0.75,6.0
+2019-07-11 16:33:35 [7084]  AMT: Initializing D:\Softwares\Adobe\Adobe Audition CS6
+2019-07-11 16:33:35 [7084]  AMT: Adobe License Manager version 3.5 (build 2.0) RELEASE
+2019-07-11 16:33:35 [7084]  AMT: Virtualization Turned off
+2019-07-11 16:33:35 [7084]  PCDService: PCD Service in non-threaded mode
+2019-07-11 16:33:35 [7084]  performance: AMTPreObtainProductLicense took 1.050900 ms
+2019-07-11 16:33:35 [7084]  AMT: RW check key updated !
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [0] = en_US
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [1] = en_GB
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [2] = de_DE
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [3] = es_ES
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [4] = es_MX
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [5] = fr_CA
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [6] = fr_FR
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [7] = it_IT
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [8] = ja_JP
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [9] = ko_KR
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [10] = ca_CA
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [11] = nl_NL
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [12] = pt_BR
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [13] = zh_TW
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [14] = sv_SE
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [15] = cs_CZ
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [16] = pl_PL
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [17] = ru_RU
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [18] = tr_TR
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [19] = en_AE
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [20] = en_IL
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [21] = fr_MA
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [22] = da_DK
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [23] = zh_CN
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [24] = hu_HU
+2019-07-11 16:33:35 [7084]  AMT: App Product Locale [25] = uk_UA
+2019-07-11 16:33:35 [7084]  config: Loading configuration for D:\Softwares\Adobe\Adobe Audition CS6\AMT\application.xml
+2019-07-11 16:33:35 [7084]  config: Found payload code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:35 [7084]  PCDService: found driver code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:35 [7084]  config: config: Host app was installed, using installed license configuration.
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [FLMap] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:33:35 [7084]  config: Setting current license to the driver at startup because no mapping was found.
+2019-07-11 16:33:35 [7084]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:33:35 [7084]  config: payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:35 [7084]  config: driver payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:35 [7084]  config: driver licensing code: Audition-CS6-Win-GM
+2019-07-11 16:33:35 [7084]  config: current licensing code: Audition-CS6-Win-GM
+2019-07-11 16:33:35 [7084]  config: current locale code: ALL
+2019-07-11 16:33:35 [7084]  config: Done loading configuration
+2019-07-11 16:33:35 [7084]  config: Setting insalled locales
+2019-07-11 16:33:35 [7084]  config: Changing locale to "zh_CN" because old locale "" is not in the new list of installed languages
+2019-07-11 16:33:35 [7084]  AMT: Installed Locale  [0] = zh_CN
+2019-07-11 16:33:35 [7084]  AMT: Reordered Locale  [0] = zh_CN
+2019-07-11 16:33:35 [7084]  AMT: config: Finding license info for payload: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:35 [7084]  AMT: config: PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:35 [7084]  AMT: config: Driver PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:35 [7084]  AMT: config: Installed LicensingCode: Audition-CS6-Win-GM
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [ISO_TAGGING_DISABLED] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [EULA] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [SuiteFeatureCount] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:35 [7084]  AMT: Application can be serialized (Non Passive App).
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}zh_CN] in cache : 519
+2019-07-11 16:33:35 [7084]  config: No zh_CN licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:33:35 [7084]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:33:35 [7084]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:33:35 [7084]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:33:35 [7084]  config: Enigma Data Found from SLCache
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:35 [7084]  AMT: Subsequent launch (serial [97658709181598059820] in trial).
+2019-07-11 16:33:35 [7084]  AMT: Application state initialized.  Obtaining Product License.
+2019-07-11 16:33:35 [7084]  AMT: Obtaining client features from cache.
+2019-07-11 16:33:35 [7084]  AMT: Obtaining client product info from cache.
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [ENABLE_GUEST] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:35 [7084]  AMT: Running in PROV_APP
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:35 [7084]  PCDService: No value for key [MediaTag] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:35 [7084]  config: No media tag found for payload {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:35 [7084]  config: Using default media policy RET
+2019-07-11 16:33:35 [7084]  uiswitch: EULA has already been accepted.
+2019-07-11 16:33:35 [7084]  AMT: This is a subsequent launch. Deferring services.
+2019-07-11 16:33:35 [7084]  performance: AMTObtainProductLicense took 67.437798 ms
+2019-07-11 16:33:44 [7084]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:44 [7084]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:44 [7084]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:44 [7084]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:44 [7084]  AUMService: config: No AdobeUpdaterCode found in configuration; AUM will be disabled.
+2019-07-11 16:33:44 [7084]  ServiceLoader: looking for library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:33:44 [7084]  ServiceLoader: Found library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:33:44 [7084]  performance: AMTReleaseProductLicense took 0.177900 ms
+2019-07-11 16:33:44 [7084]  AMT: END SESSION.
+
+
+2019-07-11 16:33:46 [7236]  AMT: START SESSION, library version 6.0.0.75,6.0
+2019-07-11 16:33:46 [7236]  AMT: Initializing D:\Softwares\Adobe\Adobe Audition CS6
+2019-07-11 16:33:46 [7236]  AMT: Adobe License Manager version 3.5 (build 2.0) RELEASE
+2019-07-11 16:33:46 [7236]  AMT: Virtualization Turned off
+2019-07-11 16:33:46 [7236]  PCDService: PCD Service in non-threaded mode
+2019-07-11 16:33:46 [7236]  performance: AMTPreObtainProductLicense took 1.038000 ms
+2019-07-11 16:33:46 [7236]  AMT: RW check key updated !
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [0] = en_US
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [1] = en_GB
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [2] = de_DE
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [3] = es_ES
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [4] = es_MX
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [5] = fr_CA
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [6] = fr_FR
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [7] = it_IT
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [8] = ja_JP
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [9] = ko_KR
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [10] = ca_CA
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [11] = nl_NL
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [12] = pt_BR
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [13] = zh_TW
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [14] = sv_SE
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [15] = cs_CZ
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [16] = pl_PL
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [17] = ru_RU
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [18] = tr_TR
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [19] = en_AE
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [20] = en_IL
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [21] = fr_MA
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [22] = da_DK
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [23] = zh_CN
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [24] = hu_HU
+2019-07-11 16:33:46 [7236]  AMT: App Product Locale [25] = uk_UA
+2019-07-11 16:33:46 [7236]  config: Loading configuration for D:\Softwares\Adobe\Adobe Audition CS6\AMT\application.xml
+2019-07-11 16:33:46 [7236]  config: Found payload code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:46 [7236]  PCDService: found driver code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:46 [7236]  config: config: Host app was installed, using installed license configuration.
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [FLMap] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:33:46 [7236]  config: Setting current license to the driver at startup because no mapping was found.
+2019-07-11 16:33:46 [7236]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:33:46 [7236]  config: payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:46 [7236]  config: driver payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:46 [7236]  config: driver licensing code: Audition-CS6-Win-GM
+2019-07-11 16:33:46 [7236]  config: current licensing code: Audition-CS6-Win-GM
+2019-07-11 16:33:46 [7236]  config: current locale code: ALL
+2019-07-11 16:33:46 [7236]  config: Done loading configuration
+2019-07-11 16:33:46 [7236]  config: Setting insalled locales
+2019-07-11 16:33:46 [7236]  config: Changing locale to "zh_CN" because old locale "" is not in the new list of installed languages
+2019-07-11 16:33:46 [7236]  AMT: Installed Locale  [0] = zh_CN
+2019-07-11 16:33:46 [7236]  AMT: Reordered Locale  [0] = zh_CN
+2019-07-11 16:33:46 [7236]  AMT: config: Finding license info for payload: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:46 [7236]  AMT: config: PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:46 [7236]  AMT: config: Driver PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:46 [7236]  AMT: config: Installed LicensingCode: Audition-CS6-Win-GM
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [ISO_TAGGING_DISABLED] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [EULA] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [SuiteFeatureCount] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:46 [7236]  AMT: Application can be serialized (Non Passive App).
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}zh_CN] in cache : 519
+2019-07-11 16:33:46 [7236]  config: No zh_CN licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:33:46 [7236]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:33:46 [7236]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:33:46 [7236]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:33:46 [7236]  config: Enigma Data Found from SLCache
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:46 [7236]  AMT: Subsequent launch (serial [97658709181598059820] in trial).
+2019-07-11 16:33:46 [7236]  AMT: Application state initialized.  Obtaining Product License.
+2019-07-11 16:33:46 [7236]  AMT: Obtaining client features from cache.
+2019-07-11 16:33:46 [7236]  AMT: Obtaining client product info from cache.
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [ENABLE_GUEST] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:46 [7236]  AMT: Running in PROV_APP
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:46 [7236]  PCDService: No value for key [MediaTag] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:46 [7236]  config: No media tag found for payload {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:46 [7236]  config: Using default media policy RET
+2019-07-11 16:33:46 [7236]  uiswitch: EULA has already been accepted.
+2019-07-11 16:33:46 [7236]  AMT: This is a subsequent launch. Deferring services.
+2019-07-11 16:33:46 [7236]  performance: AMTObtainProductLicense took 41.015301 ms
+2019-07-11 16:33:57 [7236]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:57 [7236]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:57 [7236]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:57 [7236]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:57 [7236]  AUMService: config: No AdobeUpdaterCode found in configuration; AUM will be disabled.
+2019-07-11 16:33:57 [7236]  ServiceLoader: looking for library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:33:57 [7236]  ServiceLoader: Found library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:33:57 [7236]  performance: AMTReleaseProductLicense took 0.178000 ms
+2019-07-11 16:33:57 [7236]  AMT: END SESSION.
+
+
+2019-07-11 16:33:59 [12116]  AMT: START SESSION, library version 6.0.0.75,6.0
+2019-07-11 16:33:59 [12116]  AMT: Initializing D:\Softwares\Adobe\Adobe Audition CS6
+2019-07-11 16:33:59 [12116]  AMT: Adobe License Manager version 3.5 (build 2.0) RELEASE
+2019-07-11 16:33:59 [12116]  AMT: Virtualization Turned off
+2019-07-11 16:33:59 [12116]  PCDService: PCD Service in non-threaded mode
+2019-07-11 16:33:59 [12116]  performance: AMTPreObtainProductLicense took 1.068700 ms
+2019-07-11 16:33:59 [12116]  AMT: RW check key updated !
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [0] = en_US
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [1] = en_GB
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [2] = de_DE
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [3] = es_ES
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [4] = es_MX
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [5] = fr_CA
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [6] = fr_FR
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [7] = it_IT
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [8] = ja_JP
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [9] = ko_KR
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [10] = ca_CA
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [11] = nl_NL
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [12] = pt_BR
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [13] = zh_TW
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [14] = sv_SE
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [15] = cs_CZ
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [16] = pl_PL
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [17] = ru_RU
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [18] = tr_TR
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [19] = en_AE
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [20] = en_IL
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [21] = fr_MA
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [22] = da_DK
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [23] = zh_CN
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [24] = hu_HU
+2019-07-11 16:33:59 [12116]  AMT: App Product Locale [25] = uk_UA
+2019-07-11 16:33:59 [12116]  config: Loading configuration for D:\Softwares\Adobe\Adobe Audition CS6\AMT\application.xml
+2019-07-11 16:33:59 [12116]  config: Found payload code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:59 [12116]  PCDService: found driver code {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:59 [12116]  config: config: Host app was installed, using installed license configuration.
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [FLMap] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:33:59 [12116]  config: Setting current license to the driver at startup because no mapping was found.
+2019-07-11 16:33:59 [12116]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:33:59 [12116]  config: payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:59 [12116]  config: driver payload code: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:59 [12116]  config: driver licensing code: Audition-CS6-Win-GM
+2019-07-11 16:33:59 [12116]  config: current licensing code: Audition-CS6-Win-GM
+2019-07-11 16:33:59 [12116]  config: current locale code: ALL
+2019-07-11 16:33:59 [12116]  config: Done loading configuration
+2019-07-11 16:33:59 [12116]  config: Setting insalled locales
+2019-07-11 16:33:59 [12116]  config: Changing locale to "zh_CN" because old locale "" is not in the new list of installed languages
+2019-07-11 16:33:59 [12116]  AMT: Installed Locale  [0] = zh_CN
+2019-07-11 16:33:59 [12116]  AMT: Reordered Locale  [0] = zh_CN
+2019-07-11 16:33:59 [12116]  AMT: config: Finding license info for payload: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:59 [12116]  AMT: config: PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:59 [12116]  AMT: config: Driver PayloadCode: {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:59 [12116]  AMT: config: Installed LicensingCode: Audition-CS6-Win-GM
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [ISO_TAGGING_DISABLED] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [EULA] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [Registration] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [Growl] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [EULAForPassive] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [SuiteFeatureCount] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:59 [12116]  AMT: Application can be serialized (Non Passive App).
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}zh_CN] in cache : 519
+2019-07-11 16:33:59 [12116]  config: No zh_CN licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:33:59 [12116]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:33:59 [12116]  config: Setting current license to Audition-CS6-Win-GM [ALL]
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [SN] in hive [Audition-CS6-Win-GM{|}ALL] in cache : 519
+2019-07-11 16:33:59 [12116]  config: No ALL licensed serial number found in Audition-CS6-Win-GM
+2019-07-11 16:33:59 [12116]  config: Enigma Data Found from SLCache
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:59 [12116]  AMT: Subsequent launch (serial [97658709181598059820] in trial).
+2019-07-11 16:33:59 [12116]  AMT: Application state initialized.  Obtaining Product License.
+2019-07-11 16:33:59 [12116]  AMT: Obtaining client features from cache.
+2019-07-11 16:33:59 [12116]  AMT: Obtaining client product info from cache.
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [ENABLE_GUEST] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [ExpirationDate] in hive [Audition-CS6-Win-GM] in master : 10
+2019-07-11 16:33:59 [12116]  AMT: Running in PROV_APP
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [EULADelay] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:59 [12116]  PCDService: No value for key [MediaTag] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:33:59 [12116]  config: No media tag found for payload {30FD541D-3C9D-41C4-B240-A994EE4E0231}
+2019-07-11 16:33:59 [12116]  config: Using default media policy RET
+2019-07-11 16:33:59 [12116]  uiswitch: EULA has already been accepted.
+2019-07-11 16:33:59 [12116]  AMT: This is a subsequent launch. Deferring services.
+2019-07-11 16:33:59 [12116]  performance: AMTObtainProductLicense took 475.214691 ms
+2019-07-11 16:34:12 [12116]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:34:12 [12116]  PCDService: No value for key [AdobeUpdaterCodeV2] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:34:12 [12116]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:34:12 [12116]  PCDService: No value for key [Updates] in hive [{30FD541D-3C9D-41C4-B240-A994EE4E0231}] in master : 10
+2019-07-11 16:34:12 [12116]  AUMService: config: No AdobeUpdaterCode found in configuration; AUM will be disabled.
+2019-07-11 16:34:12 [12116]  ServiceLoader: looking for library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:34:12 [12116]  ServiceLoader: Found library D:\Softwares\Adobe\Adobe Audition CS6\updaternotifications.dll
+2019-07-11 16:34:12 [12116]  performance: AMTReleaseProductLicense took 0.202300 ms
+2019-07-11 16:34:12 [12116]  AMT: END SESSION.
+
+

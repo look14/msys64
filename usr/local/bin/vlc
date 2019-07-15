@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [ $# -gt 0 ]; then
+	path=$(cygpath -aw ${1})
+fi
+
+"/d/Softwares/VLC/vlc.exe" ${path}

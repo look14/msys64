@@ -1,0 +1,437 @@
+[2019-05-24 14:52] [PACMAN] Running 'pacman -Syu --root /tmp/newmsys/msys64'
+[2019-05-24 14:52] [PACMAN] synchronizing package lists
+[2019-05-24 14:52] [PACMAN] starting core system upgrade
+[2019-05-24 14:52] [PACMAN] starting full system upgrade
+[2019-05-24 14:52] [PACMAN] Running 'pacman -S --noconfirm --root /tmp/newmsys/msys64 base'
+[2019-05-24 14:53] [ALPM] transaction started
+[2019-05-24 14:53] [ALPM] installed msys2-runtime (3.0.7-2)
+[2019-05-24 14:53] [ALPM] installed bash (4.4.023-1)
+[2019-05-24 14:53] [ALPM] installed bash-completion (2.8-2)
+[2019-05-24 14:53] [ALPM] installed gcc-libs (7.4.0-1)
+[2019-05-24 14:53] [ALPM] installed libbz2 (1.0.6-2)
+[2019-05-24 14:53] [ALPM] installed libiconv (1.15-1)
+[2019-05-24 14:53] [ALPM] installed libexpat (2.2.6-1)
+[2019-05-24 14:53] [ALPM] installed libintl (0.19.8.1-1)
+[2019-05-24 14:53] [ALPM] installed libgettextpo (0.19.8.1-1)
+[2019-05-24 14:53] [ALPM] installed libasprintf (0.19.8.1-1)
+[2019-05-24 14:53] [ALPM] installed gettext (0.19.8.1-1)
+[2019-05-24 14:53] [ALPM] installed liblzma (5.2.4-1)
+[2019-05-24 14:53] [ALPM] installed liblz4 (1.9.1-1)
+[2019-05-24 14:53] [ALPM] installed liblzo2 (2.10-2)
+[2019-05-24 14:53] [ALPM] installed gmp (6.1.2-1)
+[2019-05-24 14:53] [ALPM] installed libhogweed (3.4.1-1)
+[2019-05-24 14:53] [ALPM] installed libnettle (3.4.1-1)
+[2019-05-24 14:53] [ALPM] installed coreutils (8.31-1)
+[2019-05-24 14:53] [ALPM] installed icu (64.2-1)
+[2019-05-24 14:53] [ALPM] installed ncurses (6.1.20180908-1)
+[2019-05-24 14:53] [ALPM] installed libreadline (8.0.000-1)
+[2019-05-24 14:53] [ALPM] installed zlib (1.2.11-1)
+[2019-05-24 14:53] [ALPM] installed libxml2 (2.9.9-4)
+[2019-05-24 14:53] [ALPM] installed bsdcpio (3.3.3-3)
+[2019-05-24 14:53] [ALPM] installed bsdtar (3.3.3-3)
+[2019-05-24 14:53] [ALPM] installed bzip2 (1.0.6-2)
+[2019-05-24 14:53] [ALPM] installed libopenssl (1.1.1.b-1)
+[2019-05-24 14:53] [ALPM] installed openssl (1.1.1.b-1)
+[2019-05-24 14:53] [ALPM] installed findutils (4.6.0-1)
+[2019-05-24 14:53] [ALPM] installed sed (4.7-1)
+[2019-05-24 14:53] [ALPM] installed libffi (3.2.1-3)
+[2019-05-24 14:53] [ALPM] installed libpcre (8.43-2)
+[2019-05-24 14:53] [ALPM] installed less (530-1)
+[2019-05-24 14:53] [ALPM] installed gzip (1.10-1)
+[2019-05-24 14:53] [ALPM] installed libcrypt (2.1-2)
+[2019-05-24 14:53] [ALPM] installed info (6.6-1)
+[2019-05-24 14:53] [ALPM] installed libtasn1 (4.13-1)
+[2019-05-24 14:53] [ALPM] installed libgpg-error (1.36-1)
+[2019-05-24 14:53] [ALPM] installed libgcrypt (1.8.4-1)
+[2019-05-24 14:53] [ALPM] installed libxslt (1.1.33-2)
+[2019-05-24 14:53] [ALPM] installed glib2 (2.54.3-1)
+[2019-05-24 14:53] [ALPM] installed libp11-kit (0.23.15-1)
+[2019-05-24 14:53] [ALPM] installed p11-kit (0.23.15-1)
+[2019-05-24 14:53] [ALPM] installed ca-certificates (20180409-1)
+[2019-05-24 14:53] [ALPM] installed brotli (1.0.7-1)
+[2019-05-24 14:53] [ALPM] installed libdb (5.3.28-2)
+[2019-05-24 14:53] [ALPM] installed libedit (3.1-20170329)
+[2019-05-24 14:53] [ALPM] installed libsqlite (3.28.0-1)
+[2019-05-24 14:53] [ALPM] installed heimdal-libs (7.5.0-3)
+[2019-05-24 14:53] [ALPM] installed libunistring (0.9.10-1)
+[2019-05-24 14:53] [ALPM] installed libidn2 (2.1.1a-1)
+[2019-05-24 14:53] [ALPM] installed libmetalink (0.1.3-2)
+[2019-05-24 14:53] [ALPM] installed libnghttp2 (1.36.0-1)
+[2019-05-24 14:53] [ALPM] installed libpsl (0.20.2-3)
+[2019-05-24 14:53] [ALPM] installed libssh2 (1.8.2-1)
+[2019-05-24 14:53] [ALPM] installed libcurl (7.65.0-1)
+[2019-05-24 14:53] [ALPM] installed curl (7.65.0-1)
+[2019-05-24 14:53] [ALPM] installed filesystem (2018.12-1)
+[2019-05-24 14:53] [ALPM] installed grep (3.0-2)
+[2019-05-24 14:53] [ALPM] installed dash (0.5.10.2-1)
+[2019-05-24 14:53] [ALPM] installed dtc (1.5.0-1)
+[2019-05-24 14:53] [ALPM] installed file (5.37-1)
+[2019-05-24 14:53] [ALPM] installed m4 (1.4.18-2)
+[2019-05-24 14:53] [ALPM] installed flex (2.6.4-1)
+[2019-05-24 14:53] [ALPM] installed mpfr (4.0.2-1)
+[2019-05-24 14:53] [ALPM] installed gawk (5.0.0-1)
+[2019-05-24 14:53] [ALPM] installed libargp (20110921-2)
+[2019-05-24 14:53] [ALPM] installed getent (2.18.90-2)
+[2019-05-24 14:53] [ALPM] installed tftp-hpa (5.2-3)
+[2019-05-24 14:53] [ALPM] installed inetutils (1.9.4-2)
+[2019-05-24 14:53] [ALPM] installed lndir (1.0.3-1)
+[2019-05-24 14:53] [ALPM] installed mintty (1~3.0.0-1)
+[2019-05-24 14:53] [ALPM] installed msys2-keyring (r9.397a52e-1)
+[2019-05-24 14:53] [ALPM] installed msys2-launcher-git (0.3.32.56c2ba7-2)
+[2019-05-24 14:53] [ALPM] installed libassuan (2.5.3-1)
+[2019-05-24 14:53] [ALPM] installed libgnutls (3.6.7.1-1)
+[2019-05-24 14:53] [ALPM] installed libksba (1.3.5-1)
+[2019-05-24 14:53] [ALPM] installed libnpth (1.6-1)
+[2019-05-24 14:53] [ALPM] installed nettle (3.4.1-1)
+[2019-05-24 14:53] [ALPM] installed pinentry (1.1.0-2)
+[2019-05-24 14:53] [ALPM] installed gnupg (2.2.15-2)
+[2019-05-24 14:53] [ALPM] installed pacman-mirrors (20180604-2)
+[2019-05-24 14:53] [ALPM] installed which (2.21-2)
+[2019-05-24 14:53] [ALPM] installed xz (5.2.4-1)
+[2019-05-24 14:54] [ALPM] installed pacman (5.1.3-1)
+[2019-05-24 14:54] [ALPM] installed libarchive (3.3.3-3)
+[2019-05-24 14:54] [ALPM] installed libpcre16 (8.43-2)
+[2019-05-24 14:54] [ALPM] installed libpcre32 (8.43-2)
+[2019-05-24 14:54] [ALPM] installed libpcrecpp (8.43-2)
+[2019-05-24 14:54] [ALPM] installed libpcreposix (8.43-2)
+[2019-05-24 14:54] [ALPM] installed pcre (8.43-2)
+[2019-05-24 14:54] [ALPM] installed pkgfile (19-1)
+[2019-05-24 14:54] [ALPM-SCRIPTLET] ==> Run 'pkgfile --update' to initialize the database
+[2019-05-24 14:54] [ALPM] installed libgpgme (1.13.0-1)
+[2019-05-24 14:54] [ALPM] installed libpcre2_8 (10.33-2)
+[2019-05-24 14:54] [ALPM] installed libutil-linux (2.33.1-1)
+[2019-05-24 14:54] [ALPM] installed wget (1.20.3-1)
+[2019-05-24 14:54] [ALPM] installed pactoys-git (r2.07ca37f-1)
+[2019-05-24 14:54] [ALPM] installed pax-git (20161104.2-1)
+[2019-05-24 14:54] [ALPM] installed rebase (4.4.4-1)
+[2019-05-24 14:54] [ALPM] installed time (1.9-1)
+[2019-05-24 14:54] [ALPM] installed ttyrec (1.0.8-2)
+[2019-05-24 14:54] [ALPM] installed tzcode (2019.a-1)
+[2019-05-24 14:54] [ALPM] installed util-linux (2.33.1-1)
+[2019-05-24 14:54] [ALPM] transaction completed
+[2019-07-10 10:56] [PACMAN] Running 'pacman -S gcc openssh vim dos2unix perl ruby winpty cmake tar make git'
+[2019-07-10 11:00] [ALPM] transaction started
+[2019-07-10 11:00] [ALPM] installed binutils (2.30-1)
+[2019-07-10 11:00] [ALPM] installed isl (0.19-1)
+[2019-07-10 11:00] [ALPM] installed mpc (1.1.0-1)
+[2019-07-10 11:00] [ALPM] installed msys2-runtime-devel (3.0.7-2)
+[2019-07-10 11:00] [ALPM] installed msys2-w32api-headers (7.0.0.5454.19e51f59-1)
+[2019-07-10 11:00] [ALPM] installed msys2-w32api-runtime (7.0.0.5454.19e51f59-1)
+[2019-07-10 11:00] [ALPM] installed windows-default-manifest (6.4-1)
+[2019-07-10 11:00] [ALPM] installed gcc (7.4.0-1)
+[2019-07-10 11:00] [ALPM] installed heimdal (7.5.0-3)
+[2019-07-10 11:01] [ALPM] installed openssh (8.0p1-1)
+[2019-07-10 11:01] [ALPM] installed vim (8.1.1234-1)
+[2019-07-10 11:01] [ALPM] installed dos2unix (7.4.0-1)
+[2019-07-10 11:01] [ALPM] installed db (5.3.28-2)
+[2019-07-10 11:01] [ALPM] installed libgdbm (1.18.1-2)
+[2019-07-10 11:01] [ALPM] installed gdbm (1.18.1-2)
+[2019-07-10 11:01] [ALPM] installed perl (5.28.2-1)
+[2019-07-10 11:01] [ALPM] installed libyaml (0.2.1-1)
+[2019-07-10 11:01] [ALPM] installed ruby (2.6.3-2)
+[2019-07-10 11:01] [ALPM-SCRIPTLET] The default location of gem installs is $HOME/.gem/ruby
+[2019-07-10 11:01] [ALPM-SCRIPTLET] Add the following line to your PATH if you plan to install using gem
+[2019-07-10 11:01] [ALPM-SCRIPTLET] $(ruby -rubygems -e "puts Gem.user_dir")/bin
+[2019-07-10 11:01] [ALPM-SCRIPTLET] If you want to install to the system wide location, you must either:
+[2019-07-10 11:01] [ALPM-SCRIPTLET] edit /etc/gemrc or run gem with the --no-user-install flag.
+[2019-07-10 11:01] [ALPM] installed winpty (0.4.3-1)
+[2019-07-10 11:01] [ALPM] installed jsoncpp (1.8.4-1)
+[2019-07-10 11:01] [ALPM-SCRIPTLET] JsonCpp headers and build libraries are now in jsoncpp-devel.
+[2019-07-10 11:01] [ALPM] installed librhash (1.3.8-1)
+[2019-07-10 11:01] [ALPM] installed libuv (1.29.1-1)
+[2019-07-10 11:01] [ALPM] installed pkg-config (0.29.2-1)
+[2019-07-10 11:01] [ALPM] installed cmake (3.14.3-1)
+[2019-07-10 11:01] [ALPM] installed tar (1.32-1)
+[2019-07-10 11:01] [ALPM] installed make (4.2.1-1)
+[2019-07-10 11:01] [ALPM] installed expat (2.2.6-1)
+[2019-07-10 11:01] [ALPM] installed perl-Error (0.17027-1)
+[2019-07-10 11:01] [ALPM] installed perl-Authen-SASL (2.16-2)
+[2019-07-10 11:01] [ALPM] installed perl-Encode-Locale (1.05-1)
+[2019-07-10 11:01] [ALPM] installed perl-HTTP-Date (6.02-2)
+[2019-07-10 11:01] [ALPM] installed perl-File-Listing (6.04-2)
+[2019-07-10 11:01] [ALPM] installed perl-HTML-Tagset (3.20-2)
+[2019-07-10 11:01] [ALPM] installed perl-HTML-Parser (3.72-3)
+[2019-07-10 11:01] [ALPM] installed perl-LWP-MediaTypes (6.02-2)
+[2019-07-10 11:02] [ALPM] installed perl-URI (1.76-1)
+[2019-07-10 11:02] [ALPM] installed perl-HTTP-Message (6.18-1)
+[2019-07-10 11:02] [ALPM] installed perl-HTTP-Cookies (6.04-1)
+[2019-07-10 11:02] [ALPM] installed perl-HTTP-Daemon (6.01-2)
+[2019-07-10 11:02] [ALPM] installed perl-HTTP-Negotiate (6.01-2)
+[2019-07-10 11:02] [ALPM] installed perl-Net-HTTP (6.18-1)
+[2019-07-10 11:02] [ALPM] installed perl-WWW-RobotRules (6.02-2)
+[2019-07-10 11:02] [ALPM] installed perl-Try-Tiny (0.30-1)
+[2019-07-10 11:02] [ALPM] installed perl-libwww (6.38-1)
+[2019-07-10 11:02] [ALPM] installed perl-TimeDate (2.30-2)
+[2019-07-10 11:02] [ALPM] installed perl-MailTools (2.20-1)
+[2019-07-10 11:02] [ALPM] installed perl-IO-stringy (2.111-1)
+[2019-07-10 11:02] [ALPM] installed perl-Convert-BinHex (1.125-1)
+[2019-07-10 11:02] [ALPM-SCRIPTLET] module test... pass.
+[2019-07-10 11:02] [ALPM] installed perl-MIME-tools (5.509-1)
+[2019-07-10 11:02] [ALPM] installed perl-Net-SSLeay (1.85-2)
+[2019-07-10 11:02] [ALPM] installed perl-IO-Socket-SSL (2.060-1)
+[2019-07-10 11:02] [ALPM] installed perl-Net-SMTP-SSL (1.04-1)
+[2019-07-10 11:02] [ALPM] installed perl-TermReadKey (2.37-3)
+[2019-07-10 11:02] [ALPM] installed git (2.21.0-1)
+[2019-07-10 11:02] [ALPM] transaction completed
+[2019-07-10 11:02] [PACMAN] Running 'pacman -S gdb'
+[2019-07-10 11:03] [ALPM] transaction started
+[2019-07-10 11:03] [ALPM] installed mpdecimal (2.4.2-2)
+[2019-07-10 11:04] [ALPM] installed python (3.7.3-1)
+[2019-07-10 11:04] [ALPM] installed gdb (8.2.1-2)
+[2019-07-10 11:04] [ALPM] transaction completed
+[2019-07-10 11:04] [PACMAN] Running 'pacman -S ag'
+[2019-07-10 11:05] [PACMAN] Running 'pacman -S silversearcher-ag'
+[2019-07-10 11:05] [PACMAN] Running 'pacman -S silversearcher_ag'
+[2019-07-10 11:12] [PACMAN] Running 'pacman -S tree'
+[2019-07-10 11:12] [ALPM] transaction started
+[2019-07-10 11:12] [ALPM] installed tree (1.8.0-1)
+[2019-07-10 11:12] [ALPM] transaction completed
+[2019-07-10 15:13] [PACMAN] Running 'pacman -Sy'
+[2019-07-10 15:13] [PACMAN] synchronizing package lists
+[2019-07-10 15:15] [PACMAN] Running 'pacman -Sy'
+[2019-07-10 15:15] [PACMAN] synchronizing package lists
+[2019-07-10 15:23] [PACMAN] Running 'pacman -Sy'
+[2019-07-10 15:23] [PACMAN] synchronizing package lists
+[2019-07-10 15:23] [PACMAN] Running 'pacman -Sy'
+[2019-07-10 15:23] [PACMAN] synchronizing package lists
+[2019-07-10 15:25] [PACMAN] Running 'pacman -Sy'
+[2019-07-10 15:25] [PACMAN] synchronizing package lists
+[2019-07-10 15:25] [PACMAN] Running 'pacman -Sy'
+[2019-07-10 15:25] [PACMAN] synchronizing package lists
+[2019-07-10 15:28] [PACMAN] Running 'pacman -Sy'
+[2019-07-10 15:28] [PACMAN] synchronizing package lists
+[2019-07-10 15:28] [PACMAN] Running 'pacman -Sy'
+[2019-07-10 15:28] [PACMAN] synchronizing package lists
+[2019-07-10 15:29] [PACMAN] Running 'pacman -Sy'
+[2019-07-10 15:29] [PACMAN] synchronizing package lists
+[2019-07-10 15:29] [PACMAN] Running 'pacman -Sy'
+[2019-07-10 15:29] [PACMAN] synchronizing package lists
+[2019-07-10 15:30] [PACMAN] Running 'pacman -Sy'
+[2019-07-10 15:30] [PACMAN] synchronizing package lists
+[2019-07-10 15:30] [PACMAN] Running 'pacman -Sy'
+[2019-07-10 15:30] [PACMAN] synchronizing package lists
+[2019-07-10 15:30] [PACMAN] Running 'pacman -Sy'
+[2019-07-10 15:30] [PACMAN] synchronizing package lists
+[2019-07-10 15:30] [PACMAN] Running 'pacman -Sy'
+[2019-07-10 15:30] [PACMAN] synchronizing package lists
+[2019-07-10 15:31] [PACMAN] Running 'pacman -Sy'
+[2019-07-10 15:31] [PACMAN] synchronizing package lists
+[2019-07-10 15:31] [PACMAN] Running 'pacman -Sy'
+[2019-07-10 15:31] [PACMAN] synchronizing package lists
+[2019-07-10 15:33] [PACMAN] Running 'pacman -Sy'
+[2019-07-10 15:33] [PACMAN] synchronizing package lists
+[2019-07-10 15:34] [PACMAN] Running 'pacman -S vi'
+[2019-07-10 15:34] [PACMAN] Running 'pacman -S vi'
+[2019-07-10 15:34] [PACMAN] Running 'pacman -S vim'
+[2019-07-10 15:34] [ALPM] transaction started
+[2019-07-10 15:34] [ALPM] upgraded vim (8.1.1234-1 -> 8.1.1616-1)
+[2019-07-10 15:34] [ALPM] transaction completed
+[2019-07-10 15:34] [PACMAN] Running 'pacman -S vim'
+[2019-07-10 15:34] [ALPM] transaction started
+[2019-07-10 15:35] [ALPM] reinstalled vim (8.1.1616-1)
+[2019-07-10 15:35] [ALPM] transaction completed
+[2019-07-10 15:35] [PACMAN] Running 'pacman -Sy'
+[2019-07-10 15:35] [PACMAN] synchronizing package lists
+[2019-07-10 15:36] [PACMAN] Running 'pacman -Su'
+[2019-07-10 15:36] [PACMAN] starting core system upgrade
+[2019-07-10 15:36] [ALPM] transaction started
+[2019-07-10 15:36] [ALPM] upgraded msys2-runtime (3.0.7-2 -> 3.0.7-5)
+[2019-07-10 15:36] [ALPM] upgraded mintty (1~3.0.0-1 -> 1~3.0.1-1)
+[2019-07-10 15:36] [ALPM] upgraded msys2-runtime-devel (3.0.7-2 -> 3.0.7-5)
+[2019-07-10 15:36] [ALPM] upgraded pacman (5.1.3-1 -> 5.1.3-3)
+[2019-07-10 15:36] [ALPM] transaction completed
+[2019-07-10 15:36] [PACMAN] Running 'pacman -Su'
+[2019-07-10 15:36] [PACMAN] starting core system upgrade
+[2019-07-10 15:36] [PACMAN] starting full system upgrade
+[2019-07-10 15:38] [ALPM] transaction started
+[2019-07-10 15:38] [ALPM] upgraded bash-completion (2.8-2 -> 2.9-1)
+[2019-07-10 15:38] [ALPM] upgraded gcc-libs (7.4.0-1 -> 9.1.0-1)
+[2019-07-10 15:38] [ALPM] upgraded libiconv (1.15-1 -> 1.16-1)
+[2019-07-10 15:38] [ALPM] upgraded binutils (2.30-1 -> 2.30-2)
+[2019-07-10 15:38] [ALPM] upgraded libbz2 (1.0.6-2 -> 1.0.7-1)
+[2019-07-10 15:38] [ALPM] upgraded libexpat (2.2.6-1 -> 2.2.7-1)
+[2019-07-10 15:38] [ALPM] upgraded libhogweed (3.4.1-1 -> 3.5.1-1)
+[2019-07-10 15:38] [ALPM] upgraded libnettle (3.4.1-1 -> 3.5.1-1)
+[2019-07-10 15:39] [ALPM] upgraded ncurses (6.1.20180908-1 -> 6.1.20190615-1)
+[2019-07-10 15:39] [ALPM] upgraded bsdcpio (3.3.3-3 -> 3.4.0-3)
+[2019-07-10 15:39] [ALPM] upgraded bsdtar (3.3.3-3 -> 3.4.0-3)
+[2019-07-10 15:39] [ALPM] upgraded bzip2 (1.0.6-2 -> 1.0.7-1)
+[2019-07-10 15:39] [ALPM] upgraded libedit (3.1-20170329 -> 20190324_3.1-1)
+[2019-07-10 15:39] [ALPM] upgraded libopenssl (1.1.1.b-1 -> 1.1.1.c-1)
+[2019-07-10 15:39] [ALPM] upgraded heimdal-libs (7.5.0-3 -> 7.7.0-1)
+[2019-07-10 15:39] [ALPM] upgraded less (530-1 -> 551-1)
+[2019-07-10 15:39] [ALPM] upgraded libidn2 (2.1.1a-1 -> 2.2.0-1)
+[2019-07-10 15:39] [ALPM] upgraded libnghttp2 (1.36.0-1 -> 1.39.1-1)
+[2019-07-10 15:39] [ALPM] upgraded libpsl (0.20.2-3 -> 0.21.0-1)
+[2019-07-10 15:39] [ALPM] upgraded openssl (1.1.1.b-1 -> 1.1.1.c-1)
+[2019-07-10 15:39] [ALPM] upgraded libp11-kit (0.23.15-1 -> 0.23.16.1-1)
+[2019-07-10 15:39] [ALPM] upgraded p11-kit (0.23.15-1 -> 0.23.16.1-1)
+[2019-07-10 15:39] [ALPM] upgraded libcurl (7.65.0-1 -> 7.65.1-1)
+[2019-07-10 15:39] [ALPM] upgraded libarchive (3.3.3-3 -> 3.4.0-3)
+[2019-07-10 15:39] [ALPM] upgraded libutil-linux (2.33.1-1 -> 2.34-1)
+[2019-07-10 15:39] [ALPM] upgraded libuv (1.29.1-1 -> 1.30.1-1)
+[2019-07-10 15:40] [ALPM] upgraded cmake (3.14.3-1 -> 3.14.5-1)
+[2019-07-10 15:40] [ALPM] upgraded curl (7.65.0-1 -> 7.65.1-1)
+[2019-07-10 15:40] [ALPM] upgraded expat (2.2.6-1 -> 2.2.7-1)
+[2019-07-10 15:40] [ALPM] upgraded gawk (5.0.0-1 -> 5.0.1-1)
+[2019-07-10 15:40] [ALPM] upgraded isl (0.19-1 -> 0.21-1)
+[2019-07-10 15:40] [ALPM] upgraded msys2-w32api-headers (7.0.0.5454.19e51f59-1 -> 7.0.0.5479.8db8dd5a-1)
+[2019-07-10 15:40] [ALPM] upgraded msys2-w32api-runtime (7.0.0.5454.19e51f59-1 -> 7.0.0.5479.8db8dd5a-1)
+[2019-07-10 15:40] [ALPM] upgraded gcc (7.4.0-1 -> 9.1.0-1)
+[2019-07-10 15:40] [ALPM] upgraded gdb (8.2.1-2 -> 8.2.1-3)
+[2019-07-10 15:41] [ALPM] upgraded perl (5.28.2-1 -> 5.30.0-1)
+[2019-07-10 15:41] [ALPM] upgraded perl-HTML-Parser (3.72-3 -> 3.72-4)
+[2019-07-10 15:41] [ALPM] upgraded perl-Net-HTTP (6.18-1 -> 6.19-1)
+[2019-07-10 15:41] [ALPM] upgraded perl-libwww (6.38-1 -> 6.39-1)
+[2019-07-10 15:41] [ALPM] upgraded perl-TermReadKey (2.37-3 -> 2.37-4)
+[2019-07-10 15:41] [ALPM] upgraded heimdal (7.5.0-3 -> 7.7.0-1)
+[2019-07-10 15:41] [ALPM] upgraded perl-MailTools (2.20-1 -> 2.21-1)
+[2019-07-10 15:41] [ALPM] upgraded perl-Net-SSLeay (1.85-2 -> 1.85-3)
+[2019-07-10 15:41] [ALPM] upgraded perl-IO-Socket-SSL (2.060-1 -> 2.066-1)
+[2019-07-10 15:41] [ALPM] upgraded git (2.21.0-1 -> 2.22.0-1)
+[2019-07-10 15:41] [ALPM] upgraded libgnutls (3.6.7.1-1 -> 3.6.8-2)
+[2019-07-10 15:41] [ALPM] upgraded nettle (3.4.1-1 -> 3.5.1-1)
+[2019-07-10 15:41] [ALPM] upgraded gnupg (2.2.15-2 -> 2.2.16-1)
+[2019-07-10 15:41] [ALPM-SCRIPTLET] ==> 正在从 msys2.gpg 添加密匙...
+[2019-07-10 15:41] [ALPM-SCRIPTLET] ==> 正在本地签名密匙环中的可信密匙...
+[2019-07-10 15:41] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 D55E7A6D7CE9BA1587C0ACACF40D263ECA25678A...
+[2019-07-10 15:41] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 123D4D51A1793859C2BE916BBBE514E53E0D0813...
+[2019-07-10 15:41] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 B91BCF3303284BF90CC043CA9F418C233E652008...
+[2019-07-10 15:41] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 9DD0D4217D75A33B896159E6DA7EF2ABAEEA755C...
+[2019-07-10 15:41] [ALPM-SCRIPTLET] ==> 正在导入拥有者信任值...
+[2019-07-10 15:41] [ALPM-SCRIPTLET] ==> 正在更新可信数据库...
+[2019-07-10 15:41] [ALPM-SCRIPTLET] gpg: 不需要检查信任度数据库
+[2019-07-10 15:41] [ALPM] upgraded libgpgme (1.13.0-1 -> 1.13.1-1)
+[2019-07-10 15:41] [ALPM] upgraded util-linux (2.33.1-1 -> 2.34-1)
+[2019-07-10 15:41] [ALPM] transaction completed
+[2019-07-10 15:42] [PACMAN] Running 'pacman -Su'
+[2019-07-10 15:42] [PACMAN] starting core system upgrade
+[2019-07-10 15:42] [PACMAN] starting full system upgrade
+[2019-07-10 15:49] [PACMAN] Running 'pacman -S silversearcher_ag'
+[2019-07-10 15:49] [PACMAN] Running 'pacman -S silversearcher-ag'
+[2019-07-10 15:49] [PACMAN] Running 'pacman -S silversearcher-ag'
+[2019-07-10 15:57] [PACMAN] Running 'pacman -S mingw-w64-x86_64-ag'
+[2019-07-10 15:58] [ALPM] transaction started
+[2019-07-10 15:58] [ALPM] installed mingw-w64-x86_64-gmp (6.1.2-1)
+[2019-07-10 15:58] [ALPM] installed mingw-w64-x86_64-mpfr (4.0.2-2)
+[2019-07-10 15:58] [ALPM] installed mingw-w64-x86_64-mpc (1.1.0-1)
+[2019-07-10 15:58] [ALPM] installed mingw-w64-x86_64-libwinpthread-git (7.0.0.5480.e14d23be-1)
+[2019-07-10 15:58] [ALPM] installed mingw-w64-x86_64-gcc-libs (9.1.0-3)
+[2019-07-10 15:58] [ALPM] installed mingw-w64-x86_64-bzip2 (1.0.7-1)
+[2019-07-10 15:58] [ALPM] installed mingw-w64-x86_64-wineditline (2.205-2)
+[2019-07-10 15:58] [ALPM] installed mingw-w64-x86_64-zlib (1.2.11-7)
+[2019-07-10 15:58] [ALPM] installed mingw-w64-x86_64-pcre (8.43-1)
+[2019-07-10 15:58] [ALPM] installed mingw-w64-x86_64-expat (2.2.7-1)
+[2019-07-10 15:58] [ALPM] installed mingw-w64-x86_64-libiconv (1.16-1)
+[2019-07-10 15:58] [ALPM] installed mingw-w64-x86_64-gettext (0.19.8.1-8)
+[2019-07-10 15:58] [ALPM] installed mingw-w64-x86_64-xz (5.2.4-1)
+[2019-07-10 15:58] [ALPM] installed mingw-w64-x86_64-ag (2.2.0-1)
+[2019-07-10 15:58] [ALPM] transaction completed
+[2019-07-10 16:17] [PACMAN] Running 'pacman -S mingw-w64-x86_64-diffutils'
+[2019-07-10 16:17] [ALPM] transaction started
+[2019-07-10 16:17] [ALPM] installed mingw-w64-x86_64-libsigsegv (2.12-1)
+[2019-07-10 16:17] [ALPM] installed mingw-w64-x86_64-diffutils (3.6-2)
+[2019-07-10 16:17] [ALPM] transaction completed
+[2019-07-10 16:26] [PACMAN] Running 'pacman -S mingw-w64-x86_64-faad2'
+[2019-07-10 16:26] [ALPM] transaction started
+[2019-07-10 16:26] [ALPM] installed mingw-w64-x86_64-faad2 (2.8.8-1)
+[2019-07-10 16:26] [ALPM] transaction completed
+[2019-07-10 16:28] [PACMAN] Running 'pacman -R mingw-w64-x86_64-faad2'
+[2019-07-10 16:28] [ALPM] transaction started
+[2019-07-10 16:28] [ALPM] removed mingw-w64-x86_64-faad2 (2.8.8-1)
+[2019-07-10 16:28] [ALPM] transaction completed
+[2019-07-10 17:39] [PACMAN] Running 'pacman -S axel'
+[2019-07-10 17:39] [PACMAN] Running 'pacman -S axel'
+[2019-07-10 17:39] [ALPM] transaction started
+[2019-07-10 17:39] [ALPM] installed axel (2.17.3-1)
+[2019-07-10 17:39] [ALPM] transaction completed
+[2019-07-10 17:54] [PACMAN] Running 'pacman -S python3-pip'
+[2019-07-10 17:54] [ALPM] transaction started
+[2019-07-10 17:54] [ALPM] installed python3-pyparsing (2.4.0-1)
+[2019-07-10 17:54] [ALPM] installed python3-six (1.12.0-1)
+[2019-07-10 17:54] [ALPM] installed python3-packaging (19.0-1)
+[2019-07-10 17:54] [ALPM] installed python3-appdirs (1.4.3-3)
+[2019-07-10 17:54] [ALPM] installed python3-setuptools (41.0.1-1)
+[2019-07-10 17:54] [ALPM] installed python3-pip (19.1-1)
+[2019-07-10 17:54] [ALPM] transaction completed
+[2019-07-11 10:32] [PACMAN] Running 'pacman -S zip'
+[2019-07-11 10:33] [ALPM] transaction started
+[2019-07-11 10:33] [ALPM] installed zip (3.0-3)
+[2019-07-11 10:33] [ALPM] transaction completed
+[2019-07-11 10:34] [PACMAN] Running 'pacman -S unzip'
+[2019-07-11 10:34] [ALPM] transaction started
+[2019-07-11 10:34] [ALPM] installed unzip (6.0-2)
+[2019-07-11 10:34] [ALPM] transaction completed
+[2019-07-11 10:38] [PACMAN] Running 'pacman -S p7zip'
+[2019-07-11 10:38] [ALPM] transaction started
+[2019-07-11 10:38] [ALPM] installed p7zip (16.02-1)
+[2019-07-11 10:38] [ALPM] transaction completed
+[2019-07-11 12:24] [PACMAN] Running 'pacman -R python'
+[2019-07-11 12:25] [PACMAN] Running 'pacman -R python-six'
+[2019-07-11 12:25] [PACMAN] Running 'pacman -R python3-six'
+[2019-07-11 12:25] [PACMAN] Running 'pacman -R python3-packaging'
+[2019-07-11 12:25] [PACMAN] Running 'pacman -R python3-setuptools'
+[2019-07-11 12:25] [PACMAN] Running 'pacman -R python3-pip'
+[2019-07-11 12:25] [ALPM] transaction started
+[2019-07-11 12:25] [ALPM] removed python3-pip (19.1-1)
+[2019-07-11 12:25] [ALPM] transaction completed
+[2019-07-11 12:25] [PACMAN] Running 'pacman -R python3-setuptools'
+[2019-07-11 12:25] [ALPM] transaction started
+[2019-07-11 12:25] [ALPM] removed python3-setuptools (41.0.1-1)
+[2019-07-11 12:25] [ALPM] transaction completed
+[2019-07-11 12:25] [PACMAN] Running 'pacman -R python3-six'
+[2019-07-11 12:25] [PACMAN] Running 'pacman -R python3-packaging'
+[2019-07-11 12:25] [ALPM] transaction started
+[2019-07-11 12:25] [ALPM] removed python3-packaging (19.0-1)
+[2019-07-11 12:25] [ALPM] transaction completed
+[2019-07-11 12:25] [PACMAN] Running 'pacman -R python3-six'
+[2019-07-11 12:25] [ALPM] transaction started
+[2019-07-11 12:25] [ALPM] removed python3-six (1.12.0-1)
+[2019-07-11 12:25] [ALPM] transaction completed
+[2019-07-11 12:26] [PACMAN] Running 'pacman -R python3-pyparsing'
+[2019-07-11 12:26] [ALPM] transaction started
+[2019-07-11 12:26] [ALPM] removed python3-pyparsing (2.4.0-1)
+[2019-07-11 12:26] [ALPM] transaction completed
+[2019-07-11 12:26] [PACMAN] Running 'pacman -R python3-appdirs'
+[2019-07-11 12:26] [ALPM] transaction started
+[2019-07-11 12:26] [ALPM] removed python3-appdirs (1.4.3-3)
+[2019-07-11 12:26] [ALPM] transaction completed
+[2019-07-11 12:26] [PACMAN] Running 'pacman -R python'
+[2019-07-11 12:26] [PACMAN] Running 'pacman -R python3'
+[2019-07-11 12:26] [PACMAN] Running 'pacman -R python'
+[2019-07-11 12:27] [PACMAN] Running 'pacman -R python'
+[2019-07-11 12:29] [PACMAN] Running 'pacman -R gdb'
+[2019-07-11 12:29] [ALPM] transaction started
+[2019-07-11 12:29] [ALPM] removed gdb (8.2.1-3)
+[2019-07-11 12:29] [ALPM] transaction completed
+[2019-07-11 12:29] [PACMAN] Running 'pacman -R python'
+[2019-07-11 12:29] [ALPM] transaction started
+[2019-07-11 12:29] [ALPM] removed python (3.7.3-1)
+[2019-07-11 12:29] [ALPM] transaction completed
+[2019-07-11 13:13] [PACMAN] Running 'pacman -S gdb'
+[2019-07-11 13:13] [ALPM] transaction started
+[2019-07-11 13:14] [PACMAN] Running 'pacman -R python'
+[2019-07-11 13:14] [PACMAN] Running 'pacman -R python'
+[2019-07-11 13:15] [PACMAN] Running 'pacman -R python'
+[2019-07-11 13:15] [ALPM] transaction started
+[2019-07-11 13:15] [ALPM] removed python (3.7.3-1)
+[2019-07-11 13:15] [ALPM] transaction completed
+[2019-07-11 13:15] [PACMAN] Running 'pacman -R python'
+[2019-07-11 13:17] [PACMAN] Running 'pacman -S python'
+[2019-07-11 13:18] [PACMAN] Running 'pacman -S python'
+[2019-07-11 14:05] [PACMAN] Running 'pacman -Sc'
+[2019-07-11 14:05] [PACMAN] Running 'pacman -Scc'
+[2019-07-11 14:05] [PACMAN] Running 'pacman -R python'
+[2019-07-11 14:06] [PACMAN] Running 'pacman -S python'
+[2019-07-11 14:06] [PACMAN] Running 'pacman -S python'
+[2019-07-11 14:06] [PACMAN] Running 'pacman -S python'
+[2019-07-11 14:07] [PACMAN] Running 'pacman -S python'
+[2019-07-11 14:09] [PACMAN] Running 'pacman -S python'
+[2019-07-11 14:10] [PACMAN] Running 'pacman -S python'
+[2019-07-11 14:11] [ALPM] transaction started
+[2019-07-11 14:11] [ALPM] installed python (3.7.3-1)
+[2019-07-11 14:11] [ALPM] transaction completed
+[2019-07-11 14:12] [PACMAN] Running 'pacman -R python'
+[2019-07-11 14:12] [ALPM] transaction started
+[2019-07-11 14:12] [ALPM] removed python (3.7.3-1)
+[2019-07-11 14:12] [ALPM] transaction completed

@@ -1,0 +1,9 @@
+#!/bin/bash
+
+path="/c/Program\ Files\ \(x86\)/Google/Chrome/Application/chrome.exe"
+
+if [ $# == 1 ]; then
+	eval ${path} https://www.baidu.com/s?wd=$1
+else
+	eval ${path}
+fi
