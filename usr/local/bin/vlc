@@ -1,7 +1,13 @@
 #!/bin/bash
 
 if [ $# -gt 0 ]; then
+
+if [ ${1:0:4} == "http" ]; then
+	path=${1}
+else
 	path=$(cygpath -aw ${1})
+fi
+	
 fi
 
 "/d/Softwares/VLC/vlc.exe" ${path}
